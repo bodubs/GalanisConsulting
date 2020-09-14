@@ -7,21 +7,27 @@ include 'top.php';
         <section class="projects">
             <div class="card-container">
                 <div class="card">
-                <a href="andover_inn.php">
-                    <div class="content-overlay"></div>
-                    <img src="images/projects/andover_inn.jpg" alt="Andover Inn" class="projects-img"/>
-                    <div class="proj-img-text-div">
-                        <p>Andover Inn</p>
-                        <p>Phillips Academy</p>
-                    </div>
-                </a>
+                    <a href="andover_inn.php">
+                        <div class="content-container">
+                            <img src="images/projects/andover_inn.jpg" alt="Andover Inn" class="projects-img"/>
+                            <div class="view-project-middle">
+                                <div class="view-project-text">View Project</div>
+                            </div>
+                        </div>
+                        <div class="proj-img-text-div">
+                            <p>Andover Inn</p>
+                            <p>Phillips Academy</p>
+                        </div>
+                    </a>
                 </div>
                 <div class="card">
-                    <img src="images/projects/andover_commons.jpg" alt="Phillips Academy Commons" class="projects-img"/>
-                    <div class="proj-img-text-div">
-                        <p>Andover Commons</p>
-                        <p>Phillips Academy</p>
-                    </div>
+                    <a href="andover_commons.php">
+                        <img src="images/projects/andover_commons.jpg" alt="Phillips Academy Commons" class="projects-img"/>
+                        <div class="proj-img-text-div">
+                            <p>Andover Commons</p>
+                            <p>Phillips Academy</p>
+                        </div>
+                    </a>
                 </div>
                 <div class="card">
                     <img src="images/projects/boat_house.jpg" alt="Phillips Academy Boat House" class="projects-img"/>
