@@ -1,3 +1,6 @@
+
+/* ------------------ Generic Elements -------------------- */
+
 :root{
     --main-color: #92bde7;
     --secondary-color: #6a6c6e;
@@ -12,6 +15,15 @@
 
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#main-container {
+    min-height: 100%;
+}
+
+#main {
+    overflow: auto;
+    padding-bottom: 225px;
 }
 
 ul{
@@ -162,20 +174,26 @@ nav{
 /* PROJECTS */
 
 .projects{
-    height: 500px;
     width: 100%;
+    margin-top: 50px;
 }
 
 .card-container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 20px;
+    gap: 80px;
 }
 
-/* .card{
+.card{
     width: 200px;
-    height: 200px;
-} */
+}
+
+.projects-img {
+    height: 150px;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 5px;
+}
 
 /* CONTACT */
 
@@ -220,12 +238,23 @@ nav{
 }
 
 
+/* **************************** ALL UNIQUE PROJECTS PAGES ********************************** */
+
+.projects-detail-container {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+
+
 
 /* Footer */
 footer{
+    position: relative;
     background: var(--main-color);
     color: #ffffff;
-    /* height: 20px; */
+    height: 175px;
+    margin-top: -175px;
     width: 100%;
     display: flex;
     justify-content: space-between;

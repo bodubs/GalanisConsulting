@@ -5,39 +5,66 @@ include 'top.php';
 ?>
     <div class="container">
         <section class="projects">
-        <div class="card-container">
+            <div class="card-container">
                 <div class="card">
+                <a href="andover_inn.php">
                     <div class="content-overlay"></div>
                     <img src="images/projects/andover_inn.jpg" alt="Andover Inn" class="projects-img"/>
                     <div class="proj-img-text-div">
                         <p>Andover Inn</p>
-                        <p>View Project</p>
+                        <p>Phillips Academy</p>
+                    </div>
+                </a>
+                </div>
+                <div class="card">
+                    <img src="images/projects/andover_commons.jpg" alt="Phillips Academy Commons" class="projects-img"/>
+                    <div class="proj-img-text-div">
+                        <p>Andover Commons</p>
+                        <p>Phillips Academy</p>
                     </div>
                 </div>
                 <div class="card">
-                    <h2>Phillips Academy</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vitae aspernatur aut provident commodi nesciunt!</p>
-                    <img src="" alt="">
+                    <img src="images/projects/boat_house.jpg" alt="Phillips Academy Boat House" class="projects-img"/>
+                    <div class="proj-img-text-div">
+                        <p>Boat House</p>
+                        <p>Phillips Academy</p>
+                    </div>
                 </div>
                 <div class="card">
-                    <h2>Phillips Academy</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vitae aspernatur aut provident commodi nesciunt!</p>
-                    <img src="" alt="">
+                    <img src="images/projects/Bulfinch1.JPG" alt="Phillips Academy Bulfinch Hall" class="projects-img"/>
+                    <div class="proj-img-text-div">
+                        <p>Bulfinch Hall</p>
+                        <p>Phillips Academy</p>
+                    </div>
                 </div>
                 <div class="card">
-                    <h2>Phillips Academy</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vitae aspernatur aut provident commodi nesciunt!</p>
-                    <img src="" alt="">
+                    <img src="images/projects/owh_library.jpg" alt="Phillips Academy Library Inn" class="projects-img"/>
+                    <div class="proj-img-text-div">
+                        <p>Oliver Wendell Holmes Library</p>
+                        <p>Phillips Academy</p>
+                    </div>
                 </div>
                 <div class="card">
-                    <h2>Phillips Academy</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse vitae aspernatur aut provident commodi nesciunt!</p>
-                    <img src="" alt="">
+                    <img src="images/projects/snyder_center.jpg" alt="Phillips Academy Snyder Athletic Center" class="projects-img"/>
+                    <div class="proj-img-text-div">
+                        <p>Snyder Athletic Center</p>
+                        <p>Phillips Academy</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="images/projects/brooks_chapel_sketch.jpg" alt="Brooks School Ashburn Chapel" class="projects-img"/>
+                    <div class="proj-img-text-div">
+                        <p>Ashburn Chapel</p>
+                        <p>Brooks School</p>
+                    </div>
                 </div>
             </div>
         </section>
     </div>
 
     
-</body>
-</html>
+<?php
+
+include 'footer.php';
+
+?>
