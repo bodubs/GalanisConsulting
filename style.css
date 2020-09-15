@@ -204,6 +204,7 @@ nav{
 
 .content-container {
     position: relative;
+    width: 255px;
 }
 
 .view-project-middle {
@@ -226,7 +227,7 @@ nav{
 }
 
 .view-project-text {
-    background-color: blue;
+    background-color: var(--main-color);
     color: white;
     font-size: 12px;
     padding: 10px;
