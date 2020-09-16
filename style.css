@@ -249,6 +249,10 @@ nav{
     margin-left: 10%;
 }
 
+#contact-info .li-icon {
+    padding-left: 0;
+}
+
 #contact-info img {
     margin-left: 0;
 }

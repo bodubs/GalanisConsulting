@@ -13,7 +13,7 @@
                 <li><p>978-815-1854</p></li>
             </ul>
 
-            <div><a href="https://www.linkedin.com/in/jake-warren-1279a5136/" target="_blank"><img class="li-icon" src="./Images/li-icon.png" alt="Linked-In"></a></div>
+            <div><a href="https://www.linkedin.com/in/jake-warren-1279a5136/" target="_blank"><img class="li-icon" src="images/icons/li-icon.png" alt="Linked-In"></a></div>
         </div>
     </footer>
 </body>
