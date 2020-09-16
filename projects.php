@@ -4,6 +4,9 @@ include 'top.php';
 
 ?>
     <div class="container">
+
+        <h1 id="project-title">Projects Gallery</h1>
+
         <section class="projects">
             <div class="card-container">
                 <div class="card">
