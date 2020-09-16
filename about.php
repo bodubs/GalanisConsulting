@@ -1,10 +1,12 @@
 
 <?php include('top.php'); ?>
 
+<h1 class="pages-title">About</h1>
+
 <section class="about">
     <div class="container">
         <div class="bio-container">
-            <img class="chaz" src="./Images/chaz.jpg" alt="">
+            <img class="chaz" src="./images/yani.jpg" alt="">
             <p>John Galanis has more than 30 years experience in the project planning and construction 
                 management of academic, historic, institutional, commercial, industrial, casino, hotel, 
                 and residential structures working directly for building owners and institutions. 
