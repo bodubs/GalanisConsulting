@@ -15,16 +15,16 @@ include 'top.php';
 	<p><strong>Project Value</strong><br>
 		$6.25 million</p><br>
 
-	<p><strong>Construction Schedule</strong><br>
-		June 2014 to January 2015</p><br>
+	<p><strong>Completion</strong><br>
+		2012</p><br>
 
 	<p><strong>General Contractor</strong><br>
 		Consigli Construction</p><br>
 
 	<p><strong>Architect</strong><br>
-		Goody Clancy Architects</p><br>
+		Ann Beha Architects</p><br>
 
-	<p>Originally built in 1930 for a school enrollment of 150 boys, the Ashburn Chapel required extensive renovations to support a school of 375 boys and girls in 2014. With seating capacity expanded to hold 440 students and faculty the work include the restoration of the pipe organ as well.<br><br>An Aeolian-Skinner Opus 980 built in 1938, the organ has a long and storied history, and preserving and accommodating it was central to the Chapel renovation project. Organs like it are rare, and Brooks’s was given a historical citation by the Organ Historical Society. While it was bought in 1938 with a generous gift from longtime friend of the school Mary Danforth for $7,000, today the instrument is worth $1,000,000. Ernest Skinner, who founded the Aeolian-Skinner Organ Company in 1907, was recognized as one of the finest organ builders of the 20th century.<br><br>The project provided a new entrance featuring handicap access to the basement and Chapel level by building a stairway and elevator lobby addition.  Lowering the basement slab in many areas by more than 2’, and Underpinning of foundation walls allowed the project team to turn unusable crawl space into program space for classrooms, mechanical spaces for the updated M/E/P systems built into the historic building fabric, and bathrooms.<br><br>Construction was managed around the project with close coordination with campus security due to the chapel’s central location on campus.<br><br>Other major changes at the Chapel level included the renovation and the re-orientation of the pews to align with the altar and nave space. In addition to the architectural redesign, a new LED controllable lighting system and a state-of-the-art AV system was installed in the space.</p>
+	<p>For many years Bulfinch Hall was considered the work of architect Charles Bulfinch, though a recent discovery by historian David Chase firmly attributes it to architect-builder Asher Benjamin. Asher Benjamin’s seven hand books on architectural design deeply influenced the look of towns and cities throughout New England in the 19th century.<br><br>In the past 200 years, Bulfinch Hall has experienced adaptive reuse or renovation designed by some of America’s most noted architects. In 1902, Boston architect Guy Lowell renovated the building and designed an addition to create “The Beanery” dining commons for the academy.   Guy Lowell, one of the quintessential gentlemen architects of the American Renaissance, is best known for his 1907 design of Boston's Museum of Fine Arts.<br><br>In 1936, a renovation was designed by a descendant of a Newburyport seafaring family, and Boston architect William Graves Perry of the firm Perry, Shaw, and Hepburn. The firm’s experience in planning and supervising the reconstruction of Colonial Williamsburg in Virginia made them exceptionally qualified to undertake the remodeling of Bulfinch Hall for modern classroom use of the period.<br><br>In the past several years, Galanis Consulting has been working with Ann Beha Architects of Boston on the programming and design of the most recent restoration, and addition to the building. The 1,400 SF addition with a “green roof” allowed the faculty and students the proper space requirements after the added elevator, and other ADA upgrades claimed space in the existing building. The weathervane, cupola, and brick façade were all restored. New mechanical, electrical, sprinkler and plumbing systems were added during the renovation. Oak trees, removed in order to make space available for the addition, were sent to a Massachusetts saw miller, and kiln.  After drying the lumber, the final product was shipped to a millworker for fabrication of custom seminar tables, and conference tables.</p>
 
 </div>
 
