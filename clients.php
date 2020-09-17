@@ -10,7 +10,7 @@ include 'top.php';
         <section class="projects">
             <div class="card-container">
                 <div class="card">
-                    <a href="andover_inn.php">
+                    <a href="brooks.php">
                         <img src="images/logos/brooks-logo.png" alt="Brooks School Logo" class="client-logos"/>
                     </a>
                 </div>
@@ -20,7 +20,7 @@ include 'top.php';
                     </a>
                 </div>
                 <div class="card">
-                    <a href="andover_inn.php">
+                    <a href="phillips.php">
                         <img src="images/logos/phillips-logo.png" alt="Phillips Academy Andover Logo" class="client-logos"/>
                     </a>
                 </div>
