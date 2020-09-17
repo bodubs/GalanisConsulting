@@ -405,3 +405,90 @@ footer{
     height: 30px;
     padding-left: 50px;
 }
+
+
+/* Carousel */
+
+/* Project Carousel */
+.project-carousel-container{
+    padding: 50px 0;
+}
+.project-carousel{
+    position: relative;
+    width: 100%;
+    background: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    margin-bottom: 10px;
+}
+
+.project-slide{
+    display: none;
+    height: 100%;
+}
+
+.project-slide img{
+    height: 100%;
+}
+
+.thumbnail-track{
+    height: 150px;
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+}
+
+.thumbnail{
+    margin: 0 5px;
+    height: 175px;
+}
+
+.thumbnail.selected{
+    border-bottom: 10px solid #000000;
+}
+.thumbnail img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+}
+
+
+.project-nav-arrow{
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#arrow-right{
+    right: 50px;
+}
+
+#arrow-left{
+    left: 50px;
+}
+
+
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+
+@-webkit-keyframes fade {
+from {opacity: .4} 
+to {opacity: 1}
+}
+
+@keyframes fade {
+from {opacity: .4} 
+to {opacity: 1}
+}
