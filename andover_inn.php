@@ -27,6 +27,7 @@ include 'top.php';
 	<p><strong>Architect</strong><br>
 		Arrowstreet Architects</p>
 
+
 	<div class="project-pics">
 
 		<img src="images/projects/andover-inn4.jpg" alt="Andover Inn Lounge" class="proj-img-solo"/>

@@ -48,6 +48,13 @@ a{
     font-size: 44px;
 }
 
+legend {
+    text-align: left;
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: italic;
+}
+
 /* ********************************* HEADER SECTION ********************************* */
 
 header{
@@ -208,6 +215,9 @@ nav{
     width: 100%;
     padding-top: 50px;
     border-top: 1px dotted black;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
 }
 
 .card-container{

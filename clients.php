@@ -7,7 +7,8 @@ include 'top.php';
 
         <h1 class="pages-title">Clients</h1>
 
-        <section class="projects">
+        <fieldset class="projects">
+            <legend>All - Academic - Clubs - Private Development</legend>
             <div class="card-container">
                 <div class="card">
                     <a href="brooks.php">
@@ -30,7 +31,7 @@ include 'top.php';
                     </a>
                 </div>
             </div>
-        </section>
+        </fieldset>
     </div>
 
     

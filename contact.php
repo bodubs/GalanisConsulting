@@ -92,7 +92,7 @@ if (isset($_POST['btnSendMsg'])) {
 
     if (!$errorMsg) { // IF DATA IS VALID
         
-        // ***************** SEND MAIL TO Viking Hill ******************* //
+        // ***************** SEND MAIL TO Galanis Consulting LLC ******************* //
         
         $mailMessage = "New Message from Client:
 
