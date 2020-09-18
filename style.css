@@ -361,11 +361,33 @@ nav{
 
 /* **************************** ALL UNIQUE PROJECTS PAGES ********************************** */
 
+.proj-header {
+    width: 100%;
+    margin-top: 125px;
+    padding-left: 10%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.proj-header h2 {
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+.proj-header h3 {
+    font-size: 32px;
+    color: #FFFFFF;
+}
+
 .projects-detail-container {
     width: 80%;
     margin-left: 10%;
-    margin-top: 200px;
+    margin-top: 150px;
     line-height: 1.5;
+}
+
+#snyder .project-detail-container {
+    margin-top: 30px;
 }
 
 .project-pics {
@@ -387,6 +409,12 @@ nav{
     height: 325px;
     float: right;
     margin-top: 30px;
+}
+
+/* ********* Snyder Center ******** */
+
+#snyder-header {
+    background-image: url('images/projects/snyder_center.jpg');
 }
 
 

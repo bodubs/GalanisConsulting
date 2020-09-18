@@ -4,10 +4,13 @@ include 'top.php';
 
 ?>
 
-<div class="projects-detail-container">
+<div class="proj-header" id="snyder-header">
 
 	<h2>Phillips Academy Snyder Athletic Center</h2>
-	<h3>Andover, Massachusetts</h3><br>
+	<h3>Andover, Massachusetts</h3>
+
+</div>
+<div class="projects-detail-container">
 
 	<p><strong>Client</strong><br>
 		Phillips Academy Andover</p><br>
