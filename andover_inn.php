@@ -9,6 +9,8 @@ include 'top.php';
 	<h2>Phillips Academy Andover Inn Renovation Project</h2>
 	<h3>Andover, Massachusetts</h3><br>
 
+	<img src="images/projects/andover_inn.jpg" alt="Andover Inn" id="andover-inn-main-img"/>
+
 	<p><strong>Client</strong><br>
 		Phillips Academy Andover</p><br>
 
