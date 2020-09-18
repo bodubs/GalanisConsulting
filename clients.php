@@ -17,7 +17,7 @@ include 'top.php';
                 </div>
                 <div class="card">
                     <a href="andover_inn.php">
-                        <img src="images/logos/bbn-logo.png" alt="Buckingham Browne & Nichols Logo" class="client-logos"/>
+                        <img src="images/logos/bbn-logo.png" alt="Buckingham Browne & Nichols Logo" class="client-logos" id="bbn-logo"/>
                     </a>
                 </div>
                 <div class="card">
