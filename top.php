@@ -8,7 +8,8 @@
     <meta name="author" content="Nukabird">
     <meta name="description" content="Galanis Consulting LLC">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
+	<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="style.css" type="text/css" media="screen">
 
 

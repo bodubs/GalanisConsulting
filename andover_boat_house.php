@@ -87,7 +87,7 @@ include 'top.php';
 		slides[slideIndex-1].style.display = "block";
 	}
 
-	function updateThumbnails(n){
+	function updateThumbnails(){
 		const thumbnails = document.getElementsByClassName("thumbnail");
 
 		for (var i = 0; i < thumbnails.length; i++){
