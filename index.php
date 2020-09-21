@@ -43,20 +43,18 @@ include 'top.php';
     </section>
 
     <section class="attributes">
-        <div class="container">
             <div class="atr-wrapper">
                 <div class="atr-container">
-                    <h1>$400 million</h1>
+                    <p>In Business Since</p><br>
+                    <h1>1999</h1>
                 </div>
                 <div class="atr-container">
-                    <h1>Coolest architecture</h1>
-                </div>
-                <div class="atr-container">
-                    <h1>Idk a lot of money</h1>
+                    <p>Over</p><br>
+                    <h1>$400 Million</h1><br>
+                    <p>in Project Management</p>
                 </div>
             </div>
  
-        </div>
 
     </section>
 
