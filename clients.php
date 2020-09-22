@@ -21,6 +21,11 @@ include 'top.php';
                     </a>
                 </div>
                 <div class="card">
+                    <a href="andover_inn.php">
+                        <img src="images/logos/myopia-logo.png" alt="Myopia Hunt Club Logo" class="client-logos" id="bbn-logo"/>
+                    </a>
+                </div>
+                <div class="card">
                     <a href="phillips.php">
                         <img src="images/logos/phillips-logo.png" alt="Phillips Academy Andover Logo" class="client-logos"/>
                     </a>
