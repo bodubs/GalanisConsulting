@@ -262,10 +262,18 @@ nav{
     color: var(--secondary-color);
     line-height: 1.5;
     padding: 50px 0;
+    border-top: 1px dotted black;
+    width: 80%;
+    margin-left: 10%;
+    border-bottom: 1px dotted black;
+    padding-left: 12.5%;
 }
 
-#about-llc-container {
-    display: flex;
+.about-llc-container {
+    width: 75%;
+    text-align: center;
+    color: black;
+    font-size: 24px;
 }
 
 .about{
@@ -283,6 +291,27 @@ nav{
     display: flex;
 }
 
+.early-work {
+    color: var(--secondary-color);
+    line-height: 1.5;
+    padding: 50px 0;
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 50px;
+    border-top: 1px dotted black;
+}
+
+#early-work-grid {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 30px;
+}
+
+.early-work-container h1 {
+    color: black;
+}
+
 #yani {
     margin-right: 30px;
     height: 300px;
@@ -290,6 +319,8 @@ nav{
 }
 
 #education {
+    padding-top: 50px;
+    border-top: 1px dotted black;
     width: 80%;
     margin-left: 10%;
     margin-bottom: 50px;

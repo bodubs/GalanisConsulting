@@ -6,7 +6,7 @@
 <section id="about-llc">
     <div class="container">
         <div class="about-llc-container">
-            <p>Galanis Consulting LLC was started in 1999 by John Galanis. Projects range from Academic to Private Development and anywhere in between.</p>
+            <p>Started in 1999 by John Galanis, Galanis Consulting LLC has provided over $400 million in project managment services to a variety of clients in the greater Boston area</p>
         </div>
     </div>
 </section>
@@ -27,10 +27,43 @@
     </div>
 </section>
 
-<section class="about">
+<section class="early-work">
     <div class="container">
-        <div class="bio-container">
+        <div class="early-work-container">
             <h1>Earlier Work</h1>
+
+            <div id="early-work-grid">
+
+                <div>
+                    <p><strong>Project Manager</strong></p>
+                    <p>Lend Lease</p>
+                    <p>1995-1998</p>
+                    <p>Boston, MA</p><br>
+                </div>
+
+                <div>
+                    <p><strong>Project Manager</strong></p>
+                    <p>Pappas Properties</p>
+                    <p>1987-1995</p>
+                    <p>Boston, MA</p>
+                </div>
+
+                <div>
+                    <p><strong>Project Engineer</strong></p>
+                    <p>Pappas Properties</p>
+                    <p>1984-1987</p>
+                    <p>Boston, MA</p>
+                </div>
+
+                <div>
+                    <p><strong>Field Engineer</strong></p>
+                    <p>Perini Corporation</p>
+                    <p>1982-1984</p>
+                    <p>Atlantic City, NJ</p>
+                </div>
+
+            </div>
+
         </div>
     </div>
 </section>
