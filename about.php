@@ -27,6 +27,14 @@
     </div>
 </section>
 
+<section class="about">
+    <div class="container">
+        <div class="bio-container">
+            <h1>Earlier Work</h1>
+        </div>
+    </div>
+</section>
+
 <section id="education">
     <div class="container">
         
