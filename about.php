@@ -34,34 +34,54 @@
 
             <div id="early-work-grid">
 
-                <div>
+                <div class="early-work-card" onclick="showDetails(1)">
                     <p><strong>Project Manager</strong></p>
                     <p>Lend Lease</p>
                     <p>1995-1998</p>
                     <p>Boston, MA</p>
                 </div>
 
-                <div>
+                <div class="early-work-card" onclick="showDetails(2)">
                     <p><strong>Project Manager</strong></p>
                     <p>Pappas Properties</p>
                     <p>1987-1995</p>
                     <p>Boston, MA</p>
                 </div>
 
-                <div>
+                <div class="early-work-card" onclick="showDetails(3)">
                     <p><strong>Project Engineer</strong></p>
                     <p>Pappas Properties</p>
                     <p>1984-1987</p>
                     <p>Boston, MA</p>
                 </div>
 
-                <div>
+                <div class="early-work-card" onclick="showDetails(4)">
                     <p><strong>Field Engineer</strong></p>
                     <p>Perini Corporation</p>
                     <p>1982-1984</p>
                     <p>Atlantic City, NJ</p>
                 </div>
 
+            </div>
+
+            <div id="lend-lease" style="display:none;">
+                <br><p>Projects Include:</p><br>
+                <p>Roxbury DWD, Nantucket C.O. structural renovations, Natick DWD, Somerville broad band, Foxboro Hot Slide, Braintree mega center, and various office renovation projects at 185 Franklin Street, 245 State Street and 125 High Street in Boston, Massachusetts.</p>
+            </div>
+
+            <div id="pappas-pm" style="display:none;">
+                <br><p>Projects Include:</p><br>
+                <p>“National Historic Landmark” as listed by the United States Department of Interior with approximately 23,000sf designed by architect Alexander Parris.</p>
+            </div>
+
+            <div id="pappas-pe" style="display:none;">
+                <br><p>Projects Include:</p><br>
+                <p>Superintendent for a 500,000 SF office and retail building. Cast-in-place concrete/post tensioned structure. Total value $50 million.</p>
+            </div>
+
+            <div id="perini" style="display:none;">
+                <br><p>Projects Include:</p><br>
+                <p>Trump Plaza Hotel/Casino-Perini Corporation: Atlantic City, NJ Field engineer for a thirty-four story hotel, casino, pool, theater, and 250 car underground garage. 1,100,000 SF, $120 million value</p>
             </div>
 
         </div>
@@ -85,6 +105,28 @@
         </div>
     </div>
 </section>
+
+<script>
+
+    function showDetails(n) {
+
+        document.getElementById('lend-lease').style.display = "none";
+        document.getElementById('pappas-pm').style.display = "none";
+        document.getElementById('pappas-pe').style.display = "none";
+        document.getElementById('perini').style.display = "none";
+
+        if (n == 1) {
+            document.getElementById('lend-lease').style.display = "block";
+        } else if (n == 2) {
+            document.getElementById('pappas-pm').style.display = "block";
+        } else if (n == 3) {
+            document.getElementById('pappas-pe').style.display = "block";
+        } else if (n == 4) {
+            document.getElementById('perini').style.display = "block";
+        }
+    }
+
+</script>
 
 
 <?php include('footer.php'); ?>
