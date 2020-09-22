@@ -4,7 +4,7 @@
         <header>
             <nav>
                 <div class="logo">
-                    <h1>Galanis Consulting, LLC</h2>
+                    <a href="index.php"><h1>Galanis Consulting, LLC</h1></a>
                 </div>
                 <ul class="right-nav">
                     <li><a href="index.php">Home</a></li>

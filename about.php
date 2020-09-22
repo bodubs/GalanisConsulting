@@ -6,7 +6,7 @@
 <section id="about-llc">
     <div class="container">
         <div class="about-llc-container">
-            <p>Started in 1999 by John Galanis, Galanis Consulting LLC has provided over $400 million in project managment services to a variety of clients in the greater Boston area</p>
+            <p>Started in 1999, Galanis Consulting LLC has provided over $400 million in project managment services to a variety of clients in the greater Boston area</p>
         </div>
     </div>
 </section>
@@ -71,7 +71,8 @@
 <section id="education">
     <div class="container">
         
-        <h1>Education</h1><br>
+        <h1>Education</h1>
+
         <div id="edu-div">
             <div>
                 <p><strong>Tufts University</strong></p>

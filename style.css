@@ -78,6 +78,11 @@ nav{
 
 .logo{
     text-transform: uppercase;
+    color: #ffffff;
+}
+
+.logo a {
+    color: #ffffff;
 }
 
 .right-nav{
@@ -256,6 +261,38 @@ nav{
     border-right: none;
 }
 
+.awards-home {
+    width: 100%;
+    padding: 50px 0;
+}
+
+#awards-wrapper {
+    width: 75%;
+    margin-left: 12.5%;
+    border: 3px solid gold;
+    border-radius: 5px;
+    padding: 20px 10px;
+}
+
+#awards-container {
+    display: flex;
+    flex: row wrap;
+    justify-content: space-between;
+}
+
+#awards-wrapper h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.award-card {
+    
+}
+
+.award-card h3 {
+    border-bottom: 2px solid black;
+}
+
 /* ********************************* ABOUT PAGE ********************************* */
 
 #about-llc {
@@ -276,18 +313,17 @@ nav{
     font-size: 24px;
 }
 
-.about{
-    height: 425px;
+.about {
     color: var(--secondary-color);
     line-height: 1.5;
     padding: 50px 0;
 }
 
-.about p{
+.about p {
     font-size: 15px;
 }
 
-.bio-container{
+.bio-container {
     display: flex;
 }
 
@@ -314,7 +350,7 @@ nav{
 
 #yani {
     margin-right: 30px;
-    height: 300px;
+    height: 250px;
     border: 5px solid var(--main-color);
 }
 
@@ -324,6 +360,10 @@ nav{
     width: 80%;
     margin-left: 10%;
     margin-bottom: 50px;
+}
+
+#education h1 {
+    margin-bottom: 30px;
 }
 
 #tufts-logo {
@@ -455,6 +495,10 @@ nav{
 #contact-info {
     margin-left: 10%;
     line-height: 1.5;
+    padding-left: 5%;
+    border-top: 1px dotted black;
+    padding-top: 50px;
+    margin-right: 10%;
 }
 
 #contact-info .li-icon {
@@ -471,6 +515,7 @@ nav{
     margin-right: 10%;
     padding-top: 30px;
     margin-top: 50px;
+    padding-left: 5%;
 }
 
 #contact-form {
