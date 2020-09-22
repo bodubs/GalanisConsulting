@@ -258,8 +258,18 @@ nav{
 
 /* ********************************* ABOUT PAGE ********************************* */
 
+#about-llc {
+    color: var(--secondary-color);
+    line-height: 1.5;
+    padding: 50px 0;
+}
+
+#about-llc-container {
+    display: flex;
+}
+
 .about{
-    height: 450px;
+    height: 425px;
     color: var(--secondary-color);
     line-height: 1.5;
     padding: 50px 0;
@@ -279,9 +289,19 @@ nav{
     border: 5px solid var(--main-color);
 }
 
+#education {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 50px;
+}
+
 #tufts-logo {
-    float: right;
-    height: 80px;
+    height: 60px;
+}
+
+#edu-div {
+    display: flex;
+    justify-content: space-between;
 }
 
 
