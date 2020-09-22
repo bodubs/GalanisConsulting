@@ -108,6 +108,8 @@
 
 <script>
 
+    // Function for displaying details on each of his earlier jobs
+
     function showDetails(n) {
 
         document.getElementById('lend-lease').style.display = "none";
