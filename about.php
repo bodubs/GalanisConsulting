@@ -38,7 +38,7 @@
                     <p><strong>Project Manager</strong></p>
                     <p>Lend Lease</p>
                     <p>1995-1998</p>
-                    <p>Boston, MA</p><br>
+                    <p>Boston, MA</p>
                 </div>
 
                 <div>
