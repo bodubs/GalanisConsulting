@@ -38,6 +38,10 @@ a{
     text-decoration: none;
 }
 
+legend a:hover {
+    color: var(--secondary-color);
+}
+
 .container{
     width: 85%;
     max-width: 1100px;
