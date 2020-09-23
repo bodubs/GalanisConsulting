@@ -26,7 +26,7 @@ body{
 
 #main {
     overflow: auto;
-    padding-bottom: 225px;
+    padding-bottom: 175px;
 }
 
 ul{
@@ -36,6 +36,10 @@ ul{
 
 a{
     text-decoration: none;
+}
+
+legend a:hover {
+    color: var(--secondary-color);
 }
 
 .container{
@@ -78,6 +82,11 @@ nav{
 
 .logo{
     text-transform: uppercase;
+    color: #ffffff;
+}
+
+.logo a {
+    color: #ffffff;
 }
 
 .right-nav{
@@ -256,32 +265,130 @@ nav{
     border-right: none;
 }
 
+.awards-home {
+    width: 100%;
+    padding: 50px 0;
+}
+
+#awards-wrapper {
+    width: 75%;
+    margin-left: 12.5%;
+    border: 3px solid gold;
+    border-radius: 5px;
+    padding: 20px 10px;
+}
+
+#awards-container {
+    display: flex;
+    flex: row wrap;
+    justify-content: space-between;
+}
+
+#awards-wrapper h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.award-card {
+    
+}
+
+.award-card h3 {
+    border-bottom: 2px solid black;
+}
+
 /* ********************************* ABOUT PAGE ********************************* */
 
-.about{
-    height: 450px;
+#about-llc {
+    color: var(--secondary-color);
+    line-height: 1.5;
+    padding: 50px 0;
+    border-top: 1px dotted black;
+    width: 80%;
+    margin-left: 10%;
+    border-bottom: 1px dotted black;
+    padding-left: 12.5%;
+}
+
+.about-llc-container {
+    width: 75%;
+    text-align: center;
+    color: black;
+    font-size: 24px;
+}
+
+.about {
     color: var(--secondary-color);
     line-height: 1.5;
     padding: 50px 0;
 }
 
-.about p{
+.about p {
     font-size: 15px;
 }
 
-.bio-container{
+.bio-container {
     display: flex;
+}
+
+.early-work {
+    color: var(--secondary-color);
+    line-height: 1.5;
+    padding: 50px 0;
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 50px;
+    border-top: 1px dotted black;
+}
+
+#early-work-grid {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 30px;
+}
+
+.early-work-card {
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+
+.early-work-card:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.early-work-container h1 {
+    color: black;
 }
 
 #yani {
     margin-right: 30px;
-    height: 300px;
+    height: 250px;
     border: 5px solid var(--main-color);
 }
 
+#education {
+    padding-top: 50px;
+    border-top: 1px dotted black;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 50px;
+}
+
+#education h1 {
+    margin-bottom: 30px;
+}
+
 #tufts-logo {
-    float: right;
-    height: 80px;
+    height: 60px;
+}
+
+#edu-div {
+    display: flex;
+    justify-content: space-between;
 }
 
 
@@ -296,7 +403,7 @@ nav{
 }
 
 .client-logos {
-    height: 150px;
+    height: 100px;
     -webkit-transition-duration: 0.3s;
     transition-duration: 0.3s;
     -webkit-transition-property: transform;
@@ -404,6 +511,10 @@ nav{
 #contact-info {
     margin-left: 10%;
     line-height: 1.5;
+    padding-left: 5%;
+    border-top: 1px dotted black;
+    padding-top: 50px;
+    margin-right: 10%;
 }
 
 #contact-info .li-icon {
@@ -420,14 +531,13 @@ nav{
     margin-right: 10%;
     padding-top: 30px;
     margin-top: 50px;
+    padding-left: 5%;
 }
 
 #contact-form {
     font-family: sans-serif;
     margin-top: 20px;
 }
-
-
 
 .top-space {
     margin-top: 1em;
@@ -454,6 +564,7 @@ nav{
     border-style: none;
     color: #FFFFFF;
     padding: 5px 5px 5px 5px;
+    margin-bottom: 50px;
 }
 
 #form-confirmation {

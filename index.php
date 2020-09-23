@@ -58,6 +58,26 @@ include 'top.php';
 
     </section>
 
+    <section class="awards-home">
+
+        <div id="awards-wrapper">
+
+            <h1>Recognized Projects</h1>
+
+            <div id="awards-container">
+                <div class="award-card">
+                    <h3>Snyder Center</h3>
+                </div>
+                <div class="award-card">
+                    <h3>Boat House</h3>
+                </div>
+                <div class="award-card">
+                    <h3>Andover Inn</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <?php include('footer.php'); ?>
 
     <script>
