@@ -8,7 +8,7 @@ include 'top.php';
         <h1 class="pages-title">Clients</h1>
 
         <fieldset class="projects">
-            <legend><a onclick="showAll()">All</a> - <a onclick="showAdademic()">Academic</a> - <a onclick="showClubs()">Clubs</a> - Private Development</legend>
+            <legend><a onclick="showAll()">All</a> - <a onclick="showAcademic()">Academic</a> - <a onclick="showClubs()">Clubs</a> - Private Development</legend>
             <div class="card-container">
                 <div class="card" id="brooks-client-card">
                     <a href="brooks.php">

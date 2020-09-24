@@ -9,20 +9,25 @@ include 'top.php';
         <div class="slider">
             <div class="slide current">
                 <div class="content">
-                    <h1>Slide One</h1>
+                    <h1>Snyder Athletic Center</h1>
+                    <p>Phillips Academy Andover</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, maiores quis voluptate error minima facilis.</p>
+                    <a href=""class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
                 </div>
             </div>
             <div class="slide">
                 <div class="content">
                     <h1>Slide Two</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, maiores quis voluptate error minima facilis.</p>
+                    <a class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
                 </div>
             </div>
             <div class="slide">
                 <div class="content">
                     <h1>Slide Three</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, maiores quis voluptate error minima facilis.</p>
+                    <a class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
+
                 </div>
             </div>
         </div>
@@ -38,7 +43,8 @@ include 'top.php';
 
     </section>
 
-    <section class="white-space">
+    <section class="mantra">
+        <h1>Safe. Sustainable. Innovative.</h1>
         
     </section>
 
@@ -62,19 +68,17 @@ include 'top.php';
 
         <div id="awards-wrapper">
 
-            <h1>Recognized Projects</h1>
+            <h1>Multi-Award-Winning</h1>
+            <div class="icon-container">
+                <div class="card">
+                    <img src="images/logos/leed.png" alt="" class="client-logos">
+                </div>
+                <div class="card">
+                    <img src="images/logos/asuap.png" alt="" class="client-logos">
+                </div>
 
-            <div id="awards-container">
-                <div class="award-card">
-                    <h3>Snyder Center</h3>
-                </div>
-                <div class="award-card">
-                    <h3>Boat House</h3>
-                </div>
-                <div class="award-card">
-                    <h3>Andover Inn</h3>
-                </div>
             </div>
+
         </div>
     </section>
 
@@ -116,68 +120,6 @@ include 'top.php';
             showSlides(slideIndex = n);
         }
 
-        /*   
-        const nextSlide = () => {
-            const currentSlide = document.querySelector(".slide.current");
-            currentSlide.classList.remove("current");
-
-            if(currentSlide.nextElementSibling){
-                currentSlide.nextElementSibling.classList.add("current");
-            } else {
-                slides[0].classList.add("current")
-            }
-        }
-
-        const prevSlide = () => {
-            const currentSlide = document.querySelector(".slide.current");
-            currentSlide.classList.remove("current");
-
-            if(currentSlide.previousElementSibling){
-                currentSlide.previousElementSibling.classList.add("current");
-            } else {
-                slides[slides.length - 1].classList.add("current")
-            }
-        }
-
-        const nextDot = () => {
-            const currentDot = document.querySelector(".nav-dot.current");
-            currentDot.classList.remove("current");
-
-            if(currentDot.nextElementSibling) {
-                currentDot.nextElementSibling.classList.add("current");
-            } else {
-                navDots[0].classList.add("current");
-            }
-        }
-
-        const prevDot = () => {
-            const currentDot = document.querySelector(".nav-dot.current");
-            currentDot.classList.remove("current");
-
-            if(currentDot.previousElementSibling) {
-                currentDot.previousElementSibling.classList.add("current");
-            } else {
-                navDots[navDots.length - 1].classList.add("current");
-            }
-        }
-
-
-        nextBtn.addEventListener("click", e => {
-            nextSlide();
-            nextDot();
-        })
-        prevBtn.addEventListener("click", e => {
-            prevSlide();
-            prevDot();
-        })
-
-        for(var i = 0; i < navDots.length; i++){
-            navDots[i].addEventListener("click", e => {
-                s
-            })
-        }
-
-        */
 
     </script>
 

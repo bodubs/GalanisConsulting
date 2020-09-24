@@ -26,7 +26,7 @@ include 'top.php';
 
 	<div class="project-carousel-container">
 		<div class="project-carousel">
-			<div class="project-nav-arrow" id="arrow-left"><</div>
+			<div class="project-nav-arrow" id="arrow-left"><i class="fas fa-chevron-left"></i></div>
 			<div class="project-slide fade">
 				<img src="images/projects/boat_house.jpg" alt="">
 			</div>
@@ -39,21 +39,21 @@ include 'top.php';
 			<div class="project-slide fade">
 				<img src="images/projects/boat-house4.jpg" alt="">
 			</div>
-			<div class="project-nav-arrow" id="arrow-right">></div>
+			<div class="project-nav-arrow" id="arrow-right"><i class="fas fa-chevron-right"></i></div>
 		</div>
 
 		<div class="thumbnail-track">
 			<div class="thumbnail">
-				<img src="images/projects/boat_house.jpg" alt="">
+				<a onclick="currentSlide(1)"><img src="images/projects/boat_house.jpg" alt=""></a>
 			</div>
 			<div class="thumbnail">
-				<img src="images/projects/boat-house2.jpg" alt="">
+				<a onclick="currentSlide(2)"><img src="images/projects/boat-house2.jpg" alt=""></a>
 			</div>
 			<div class="thumbnail">
-				<img src="images/projects/boat-house3.jpg" alt="">
+				<a onclick="currentSlide(3)"><img src="images/projects/boat-house3.jpg" alt=""></a>
 			</div>
 			<div class="thumbnail">
-				<img src="images/projects/boat-house4.jpg" alt="">
+				<a onclick="currentSlide(4)"><img src="images/projects/boat-house4.jpg" alt=""></a>
 			</div>
 		</div>
 
@@ -87,12 +87,16 @@ include 'top.php';
 		slides[slideIndex-1].style.display = "block";
 	}
 
+	function currentSlide(n) {
+            showSlides(slideIndex = n);
+			updateThumbnails();
+        }
+
 	function updateThumbnails(){
 		const thumbnails = document.getElementsByClassName("thumbnail");
 
 		for (var i = 0; i < thumbnails.length; i++){
 			if(thumbnails[i].classList.contains("selected")){
-				console.log("This is selected");
 				thumbnails[i].classList.remove("selected");
 			}
 		}

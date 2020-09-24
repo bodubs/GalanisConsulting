@@ -117,7 +117,7 @@ nav{
 
     position: relative;
     overflow: hidden;
-    height: 75vh;
+    height: 80vh;
     width: 100vw;
 }
 
@@ -156,6 +156,19 @@ nav{
     transition: all 0.7s ease-in-out 0.3s;
 }
 
+.see-more-btn{
+    color: var(--main-color);
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.see-more-btn i{
+    padding-left: 5px;
+}
+
+.see-more-btn:hover i{
+    margin-left: 10px;
+}
 
 .slider-nav{
     position: absolute;
@@ -220,8 +233,16 @@ nav{
     background: grey;
 }
 
-.white-space{
+.mantra{
     height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mantra h1{
+    font-size: 50px;
+    color: var(--secondary-color);
 }
 
 
@@ -273,16 +294,22 @@ nav{
 #awards-wrapper {
     width: 75%;
     margin-left: 12.5%;
-    border: 3px solid gold;
-    border-radius: 5px;
+    /* border: 3px solid gold;
+    border-radius: 5px; */
     padding: 20px 10px;
+    
 }
 
-#awards-container {
+
+.icon-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+/* #awards-container {
     display: flex;
     flex: row wrap;
     justify-content: space-between;
-}
+} */
 
 #awards-wrapper h1 {
     text-align: center;
@@ -499,6 +526,11 @@ nav{
     width: 700px;
     padding: 50px 0;
     border-bottom: var(--secondary-color) solid 1px;
+}
+
+.awards-list{
+    list-style: circle;
+    padding-left: 16px;
 }
 
 .award a{
@@ -734,6 +766,10 @@ footer{
 .thumbnail{
     margin: 0 5px;
     height: 175px;
+}
+
+.thumbnail a{
+    cursor: pointer;
 }
 
 .thumbnail.selected{
