@@ -4,22 +4,7 @@ include 'top.php';
 
 ?>
 
-<!-- <div class="container">
-    <h1 class="pages-title">Awards & Recognition</h1>
 
-    <div class="card-container">
-        <div class="card">
-            <img src="images/logos/leed.png" alt="" class="client-logos">
-        </div>
-    </div>
-    <div class="card-container">
-        <div class="card">
-            <img src="images/logos/asuap.png" alt="" class="client-logos">
-        </div>
-    </div>
-
-
-</div> -->
 
 
 
@@ -29,45 +14,44 @@ include 'top.php';
 
 
     <div class="awards-container container">
-        <!-- <div class="award">
-            <h2 class="date">2018</h2>
-            <a href="snyder.php"><h2>Phillips Academy Snyder Center</h2></a>
-            <p>https://www.andover.edu/news/2018/snyder-center-earns-leed-platinum-honor</p>
-            <p>May 2018</p>
-
-            <p>The Snyder Center, Phillips Academy’s new multipurpose athletic center, has achieved LEED Platinum certification from the United States Green Building 
-                Council (USGBC). Leadership in Energy and Environmental Design is a globally recognized 
-                rating system for sustainable building design and construction practices.</p>
-            <p>The USGBC cited Andover as a “showcase example of sustainability” and a leader in helping to transform the building industry. 
-                Innovation and care for the environment were top priorities in the construction of the Snyder Center. Rigorous sustainability 
-                goals were either met or exceeded. As a result, the 98,000 square-foot facility has not increased the Academy’s overall consumption 
-                of energy from fossil fuels. This is due in large part to features that include a roof-top solar array, efficient building envelope and 
-                energy systems, and the reuse of waste heat from ice-making at the adjacent Harrison Hockey arena.</p>
-        </div> -->
         <div class="award">
-            <div class="name-container">
-                <h2>Phillips Academy Snyder Center</h2>
-                <h3>2018</h3>
+            <div class="award-info">
+                <div class="name-container">
+                    <h2>Phillips Academy Snyder Center</h2>
+                    <h3>2018</h3>
+                </div>
+                <ul class="awards-list">
+                    <li><p>
+                        US Green Building Council LEED-NC, Level Platinum
+                    </p></li> 
+                </ul>
+
+            </div>
+            <div class="award-image">
+                <img src="images/logos/leed.png" alt="" class="client-logos">
             </div>
 
-            <ul class="awards-list">
-                <li><p>
-                    US Green Building Council LEED-NC, Level Platinum
-                </p></li> 
-            </ul>
+
         </div>
 
-        <div class="award">
-            <div class="name-container">
-                <h2>Buckingham Browne & Nichols Middle School Project</h2>
-                <h3>2016</h3>
+        <div class="award flex-col">
+            <div class="award-info">
+                <div class="name-container">
+                    <h2>Buckingham Browne & Nichols Middle School Project</h2>
+                    <h3>2016</h3>
+                </div>
+
+                <ul class="awards-list">
+                    <li><p>
+                    Outstanding design award from American School and University Magazine
+                    </p></li> 
+                </ul>
             </div>
 
-            <ul class="awards-list">
-                <li><p>
-                Outstanding design award from American School and University Magazine
-                </p></li> 
-            </ul>
+            <div class="award-image">
+                <img src="images/logos/asuap.png" alt="" class="client-logos">
+            </div>
+
         </div>
 
         <div class="award">

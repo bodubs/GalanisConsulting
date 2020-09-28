@@ -9,22 +9,21 @@ include 'top.php';
         <div class="slider">
             <div class="slide current">
                 <div class="content">
-                    <h1>Snyder Athletic Center</h1>
-                    <p>Phillips Academy Andover</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, maiores quis voluptate error minima facilis.</p>
-                    <a href=""class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
+                    <h3>Snyder Athletic Center, Andover MA</h3>
+                    <p>Completed in 2017, the multi-sport field house facility holds a LEED Platinum designation...</p>
+                    <a href="snyder.php"class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
                 </div>
             </div>
             <div class="slide">
                 <div class="content">
-                    <h1>Slide Two</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, maiores quis voluptate error minima facilis.</p>
-                    <a class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
+                    <h3>Bulfinch Hall, Andover MA</h3>
+                    <p>The historic building's most recent restaurantion was 1,400 SF addition with a "green roof"...</p>
+                    <a href="bulfinch.php" class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
                 </div>
             </div>
             <div class="slide">
                 <div class="content">
-                    <h1>Slide Three</h1>
+                    <h3>Slide Three</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, maiores quis voluptate error minima facilis.</p>
                     <a class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
 
@@ -68,18 +67,29 @@ include 'top.php';
 
         <div id="awards-wrapper">
 
-            <h1>Multi-Award-Winning</h1>
+            <h1>Proud recipient of multiple awards for projects</h1>
             <div class="icon-container">
                 <div class="card">
-                    <img src="images/logos/leed.png" alt="" class="client-logos">
+                    <img src="images/logos/leed.png" alt="" class="award-img">
                 </div>
                 <div class="card">
-                    <img src="images/logos/asuap.png" alt="" class="client-logos">
+                    <img src="images/logos/asuap.png" alt="" class="award-img">
+                </div>
+                <div class="card">
+                    <img src="images/logos/abc-logo.png" alt="" class="award-img">
+                </div>
+                <div class="card">
+                    <img src="images/logos/rm-award.gif" alt="" class="award-img">
+                </div>
+                <div class="card">
+                    <img src="images/logos/cmaa.png" alt="" class="award-img">
                 </div>
 
-            </div>
 
+            </div>
+            <a href="awards.php" class="view-awards-btn">View Awards</a>
         </div>
+
     </section>
 
     <?php include('footer.php'); ?>
