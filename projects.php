@@ -7,7 +7,7 @@ include 'top.php';
 
         <h1 class="pages-title">Projects Gallery</h1>
 
-        <section class="projects">
+        <section class="projects page-sect">
             <div class="card-container">
                 <div class="card">
                     <a href="andover_inn.php">
