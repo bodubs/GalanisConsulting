@@ -31,7 +31,7 @@ include 'top.php';
 
                 </div>
                 <div class="award-image">
-                    <img src="images/logos/leed.png" alt="" class="client-logos">
+                    <img src="images/logos/leed.png" alt="">
                 </div>
 
 
