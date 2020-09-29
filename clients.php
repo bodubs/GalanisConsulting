@@ -20,6 +20,11 @@ include 'top.php';
                         <img src="images/logos/bbn-logo.png" alt="Buckingham Browne & Nichols Logo" class="client-logos" id="bbn-logo"/>
                     </a>
                 </div>
+                <div class="card" id="cc-brookline-client-card">
+                    <a href="andover_inn.php">
+                        <img src="images/logos/cc-brookline-logo.png" alt="The Country Club at Brookline Logo" class="client-logos" id="cc-brookline-logo"/>
+                    </a>
+                </div>
                 <div class="card" id="myopia-client-card">
                     <a href="andover_inn.php">
                         <img src="images/logos/myopia-logo.png" alt="Myopia Hunt Club Logo" class="client-logos" id="bbn-logo"/>
