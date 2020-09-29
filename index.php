@@ -65,30 +65,38 @@ include 'top.php';
 
     <section class="awards-home">
 
-        <div id="awards-wrapper">
+        <div id="awards-wrapper" class="container">
 
-            <h1>Proud recipient of multiple awards for projects</h1>
+            <h1>Proud recipient of multiple awards from the following organizations</h1>
             <div class="icon-container">
-                <div class="card">
+                <div>
                     <img src="images/logos/leed.png" alt="" class="award-img">
                 </div>
-                <div class="card">
-                    <img src="images/logos/asuap.png" alt="" class="award-img">
-                </div>
-                <div class="card">
+
+                <div>
                     <img src="images/logos/abc-logo.png" alt="" class="award-img">
                 </div>
-                <div class="card">
+                <div>
                     <img src="images/logos/rm-award.gif" alt="" class="award-img">
                 </div>
-                <div class="card">
+                <div>
+                    <img src="images/logos/asu.png" alt="" class="award-img">
+                </div>
+
+                <div>
                     <img src="images/logos/cmaa.png" alt="" class="award-img">
+                </div>
+
+                <div>
+                    <img src="images/logos/asla.png" alt="" class="award-img">
                 </div>
 
 
             </div>
             <a href="awards.php" class="view-awards-btn">View Awards</a>
+
         </div>
+        
 
     </section>
 
@@ -129,6 +137,7 @@ include 'top.php';
         function currentSlide(n) {
             showSlides(slideIndex = n);
         }
+
 
 
     </script>

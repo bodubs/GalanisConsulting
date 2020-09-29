@@ -57,6 +57,11 @@ include 'top.php';
 			</div>
 		</div>
 
+		<div class="sm-btns">
+			<button id="sm-arrow-left" class="sm-arrow"><i class="fas fa-chevron-left"></i></button>
+			<button id="sm-arrow-right" class="sm-arrow"><i class="fas fa-chevron-right"></i></button>
+		</div>
+
 	</div>
 
 
@@ -118,6 +123,16 @@ include 'top.php';
 	})
 
 	document.getElementById("arrow-right").addEventListener("click", e =>{
+		showSlides(slideIndex += 1);
+		updateThumbnails();
+	})
+
+	document.getElementById("sm-arrow-left").addEventListener("click", e =>{
+		showSlides(slideIndex += -1);
+		updateThumbnails();
+	})
+
+	document.getElementById("sm-arrow-right").addEventListener("click", e =>{
 		showSlides(slideIndex += 1);
 		updateThumbnails();
 	})

@@ -7,9 +7,9 @@ include 'top.php';
 
         <h1 class="pages-title">Clients</h1>
 
-        <fieldset class="projects">
+        <fieldset class="projects pages-sect">
             <legend><a onclick="showAll()">All</a> - <a onclick="showAcademic()">Academic</a> - <a onclick="showClubs()">Clubs</a> - Private Development</legend>
-            <div class="card-container">
+            <div class="icon-container">
                 <div class="card" id="brooks-client-card">
                     <a href="brooks.php">
                         <img src="images/logos/brooks-logo.png" alt="Brooks School Logo" class="client-logos"/>
