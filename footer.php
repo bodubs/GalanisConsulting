@@ -16,5 +16,12 @@
             <div><a href="https://www.linkedin.com/in/john-galanis-79577382/" target="_blank"><img class="li-icon" src="images/icons/li-icon.png" alt="Linked-In"></a></div>
         </div>
     </footer>
+    <script>
+        // Header script
+        document.querySelector(".dd-more-btn").addEventListener("click", e => {
+            console.log("Poop");
+            document.querySelector(".drop-down-menu").classList.toggle("show");
+        })
+    </script>
 </body>
 </html>

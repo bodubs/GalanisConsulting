@@ -17,7 +17,6 @@
 
 body{
     font-family: 'Roboto', sans-serif;
-    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
 }
 
 #main-container {
@@ -108,6 +107,12 @@ nav{
 .right-nav a:hover{
     color: var(--secondary-color);
 }
+
+
+.dd-more-btn, .drop-down-menu{
+    display: none;
+}
+
 
 /* ********************************* INDEX PAGE ********************************* */
 
@@ -885,3 +890,52 @@ from {opacity: .4}
 to {opacity: 1}
 }
 
+
+
+/* MEDIA QUERIES */
+
+/* Index */
+@media screen and (max-width: 900px){
+    .right-nav{
+        display: none;
+    }
+
+    .dd-more-btn{
+        display: block;
+        color: var(--body-color);
+        background: transparent;
+        border: none;
+        outline: none;
+        font-size: 25px;
+    }
+
+    .drop-down-menu{
+        width: 100%;
+        text-align: center;
+        position: absolute;
+        top: 125px;
+        left: 0;
+    
+    }
+    
+    .drop-down-menu li{
+        width: 100%;
+        padding: 20px;
+        background: #c4c4c4;
+        border-bottom: 1px var(--secondary-color) solid 90%;
+    }
+    
+    .drop-down-menu li a{
+        color: var(--secondary-color);
+    }
+    
+    .drop-down-menu.show{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+}
+
+@media screen and (max-width: 576px){
+}
