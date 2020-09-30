@@ -149,7 +149,9 @@ nav{
     bottom: 70px;
     left: -600px;
     opacity: 0;
-    width: 600px;
+    width: 80%;
+    max-width: 600px;
+
     background: rgba(255, 255, 255, 0.8);
     color: #333333;
     padding: 25px;
@@ -567,17 +569,25 @@ nav{
 }
 
 .award{
-    width: 700px;
+    width: 100%;
     padding: 50px 0;
     border-bottom: var(--secondary-color) solid 1px;
     display: flex;
     align-items: center;
 }
 
+.name-container{
+    padding-bottom: 10px;
+}
 .award-image{
     padding-left: 50px;
 
 }
+
+.award-image img{
+    height: 100px;
+}
+
 
 .awards-list{
     list-style: circle;
@@ -826,6 +836,11 @@ footer{
 
 .project-slide img{
     height: 100%;
+    max-width: 80%;
+    position: relative;
+    object-fit: cover;
+    display: block;
+    margin: auto;
 }
 
 .thumbnail-track{
@@ -915,21 +930,31 @@ to {opacity: 1}
         font-size: 25px;
     }
 
+    .dd-more-btn:hover{
+        color: var(--secondary-color);
+        cursor: pointer;
+    }
+
     .drop-down-menu{
         width: 100%;
         text-align: center;
         position: absolute;
         top: 125px;
         left: 0;
+        background-color: #c4c4c4;
     
     }
     
     .drop-down-menu li{
-        width: 100%;
+        width: 80%;
         background: #c4c4c4;
-        border-bottom: 1px var(--secondary-color) solid 90%;
+        border-bottom: 1px var(--secondary-color) solid;
     }
     
+    .drop-down-menu li:not(:last-child){
+        border-bottom: 1px var(--secondary-color) solid;
+
+    }
     .drop-down-menu li a{
         color: var(--secondary-color);
         display: inline-block;
@@ -947,6 +972,11 @@ to {opacity: 1}
         display: flex;
         flex-direction: column;
         align-items: center;
+    }
+
+    .award{
+        flex-direction: column;
+        align-items: flex-start;
     }
 
 
@@ -967,6 +997,7 @@ to {opacity: 1}
         border: none;
         outline: none;
         padding: 10px;
+        cursor: pointer;
     }
 
     .sm-arrow:hover{
@@ -981,4 +1012,28 @@ to {opacity: 1}
 
 
 @media screen and (max-width: 576px){
+
+    .slide .content p{
+        display: none;
+    }
+
+    .slide .content h3{
+        padding-bottom: 0;
+    }
+
+    .atr-wrapper{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .atr-container{
+        width: 75%;
+        border-right: none;
+        /* border-bottom: 1px solid var(--body-color); */
+    }
+
+    .atr-container:nth-child(odd){
+        border-bottom: 1px solid var(--body-color);
+    }
+
 }
