@@ -8,7 +8,7 @@ include 'top.php';
         <h1 class="pages-title">Projects Gallery</h1>
 
         <fieldset class="projects pages-sect">
-            <legend><a onclick="showAll()">All</a> - <a onclick="showAcademic()">Academic</a> - <a onclick="showClubs()">Clubs</a> - <a onclick="showPrivDev()">Private Development</a></legend>
+            <legend><a onclick="showAll()" id="all-proj-tab">All</a> - <a onclick="showAcademic()" id="academic-proj-tab">Academic</a> - <a onclick="showClubs()" id="club-proj-tab">Clubs</a> - <a onclick="showPrivDev()" id="pd-proj-tab">Private Development</a></legend>
             <div class="card-container">
                 <div class="card" id="andover-inn-proj-card">
                     <a href="andover_inn.php">
@@ -116,6 +116,8 @@ include 'top.php';
 
     // **************** Script for displaying categoried projects *********************** //
 
+    var activeTabColor = "#5f5b17";
+
 
     // showAll() shows all cards
     function showAll() {
@@ -129,6 +131,12 @@ include 'top.php';
         document.getElementById('snyder-proj-card').style.display = "block";
         document.getElementById('ashburn-chapel-proj-card').style.display = "block";
 
+        // Change tab color
+        document.getElementById('all-proj-tab').style.color = activeTabColor;
+        document.getElementById('academic-proj-tab').style.color = "black";
+        document.getElementById('club-proj-tab').style.color = "black";
+        document.getElementById('pd-proj-tab').style.color = "black";
+
     }
 
 
@@ -139,6 +147,21 @@ include 'top.php';
         
 
         // Hide all Private Development
+
+        // Display: Block on Academic
+        document.getElementById('andover-inn-proj-card').style.display = "block";
+        document.getElementById('andover-commons-proj-card').style.display = "block";
+        document.getElementById('andover-boat-house-proj-card').style.display = "block";
+        document.getElementById('bulfinch-proj-card').style.display = "block";
+        document.getElementById('owh-library-proj-card').style.display = "block";
+        document.getElementById('snyder-proj-card').style.display = "block";
+        document.getElementById('ashburn-chapel-proj-card').style.display = "block";
+
+        // Change tab color
+        document.getElementById('all-proj-tab').style.color = "black";
+        document.getElementById('academic-proj-tab').style.color = activeTabColor;
+        document.getElementById('club-proj-tab').style.color = "black";
+        document.getElementById('pd-proj-tab').style.color = "black";
 
     }
 
@@ -156,6 +179,12 @@ include 'top.php';
 
         // Hide all Private Development
 
+        // Change tab color
+        document.getElementById('all-proj-tab').style.color = "black";
+        document.getElementById('academic-proj-tab').style.color = "black";
+        document.getElementById('club-proj-tab').style.color = activeTabColor;
+        document.getElementById('pd-proj-tab').style.color = "black";
+
     }
 
     // showPrivDev() really just hides any card not Private Development
@@ -171,6 +200,12 @@ include 'top.php';
         document.getElementById('ashburn-chapel-proj-card').style.display = "none";
 
         // Hide all Clubs
+
+        // Change tab color
+        document.getElementById('all-proj-tab').style.color = "black";
+        document.getElementById('academic-proj-tab').style.color = "black";
+        document.getElementById('club-proj-tab').style.color = "black";
+        document.getElementById('pd-proj-tab').style.color = activeTabColor;
 
     }
 

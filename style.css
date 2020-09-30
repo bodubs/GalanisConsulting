@@ -466,6 +466,8 @@ nav{
 
 #clients .card {
     width: 300px;
+    margin: auto;
+    text-align: center;
 }
 
 .client-logos {
@@ -496,6 +498,12 @@ nav{
     border-bottom: none;
     border-left: none;
     border-right: none;
+    color: var(--secondary-color);
+}
+
+.card a {
+    text-decoration: none;
+    color: var(--main-color);
 }
 
 .card-container{
@@ -507,8 +515,9 @@ nav{
 }
 
 .card{
-    width: 200px;
-    text-align: center;
+    width: 250px;
+    text-align: left;
+    margin: auto;
 }
 
 .projects-img {
@@ -551,6 +560,10 @@ nav{
     color: var(--body-color);
     font-size: 12px;
     padding: 10px;
+}
+
+#all-proj-tab {
+    color: #5f5b17;
 }
 
 /* ********************************* AWARDS PAGE ********************************* */
@@ -913,7 +926,7 @@ to {opacity: 1}
 
 
 
-/* MEDIA QUERIES */
+/* ************************************ MEDIA QUERIES ************************************ */
 
 /* Index */
 @media screen and (max-width: 900px){
@@ -1034,6 +1047,22 @@ to {opacity: 1}
 
     .atr-container:nth-child(odd){
         border-bottom: 1px solid var(--body-color);
+    }
+
+}
+
+@media screen and (max-width: 950px){
+
+    .card-container {
+        grid-template-columns: 1fr 1fr;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+
+    .card-container {
+        grid-template-columns: 1fr;
     }
 
 }
