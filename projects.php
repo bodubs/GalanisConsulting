@@ -8,9 +8,9 @@ include 'top.php';
         <h1 class="pages-title">Projects Gallery</h1>
 
         <fieldset class="projects pages-sect">
-            <legend><a onclick="showAll()">All</a> - <a onclick="showAcademic()">Academic</a> - <a onclick="showClubs()">Clubs</a> - Private Development</legend>
+            <legend><a onclick="showAll()">All</a> - <a onclick="showAcademic()">Academic</a> - <a onclick="showClubs()">Clubs</a> - <a onclick="showPrivDev()">Private Development</a></legend>
             <div class="card-container">
-                <div class="card">
+                <div class="card" id="andover-inn-proj-card">
                     <a href="andover_inn.php">
                         <div class="content-container">
                             <img src="images/projects/andover_inn.jpg" alt="Andover Inn" class="projects-img"/>
@@ -24,7 +24,7 @@ include 'top.php';
                         </div>
                     </a>
                 </div>
-                <div class="card">
+                <div class="card" id="andover-commons-proj-card">
                     <a href="andover_commons.php">
                         <div class="content-container">
                             <img src="images/projects/andover_commons.jpg" alt="Phillips Academy Commons" class="projects-img"/>
@@ -38,7 +38,7 @@ include 'top.php';
                         </div>
                     </a>
                 </div>
-                <div class="card">
+                <div class="card" id="andover-boat-house-proj-card">
                     <a href="andover_boat_house.php">
                         <div class="content-container">
                             <img src="images/projects/boat_house.jpg" alt="Phillips Academy Boat House" class="projects-img"/>
@@ -52,7 +52,7 @@ include 'top.php';
                         </div>
                     </a>
                 </div>
-                <div class="card">
+                <div class="card" id="bulfinch-proj-card">
                     <a href="bulfinch.php">
                         <div class="content-container">
                             <img src="images/projects/Bulfinch1.JPG" alt="Phillips Academy Bulfinch Hall" class="projects-img"/>
@@ -66,7 +66,7 @@ include 'top.php';
                         </div>
                     </a>
                 </div>
-                <div class="card">
+                <div class="card" id="owh-library-proj-card">
                     <a href="owh_library.php">
                         <div class="content-container">
                             <img src="images/projects/owh_library.jpg" alt="Phillips Academy Oliver Wendell Holmes Library" class="projects-img"/>
@@ -80,7 +80,7 @@ include 'top.php';
                         </div>
                     </a>
                 </div>
-                <div class="card">
+                <div class="card" id="snyder-proj-card">
                     <a href="snyder.php">
                         <div class="content-container">
                             <img src="images/projects/snyder_center.jpg" alt="Phillips Academy Snyder Athletic Center" class="projects-img"/>
@@ -94,7 +94,7 @@ include 'top.php';
                         </div>
                     </a>
                 </div>
-                <div class="card">
+                <div class="card" id="ashburn-chapel-proj-card">
                     <a href="ashburn_chapel.php">
                         <div class="content-container">
                             <img src="images/projects/brooks_chapel_sketch.jpg" alt="Brooks School Ashburn Chapel" class="projects-img"/>
@@ -111,6 +111,70 @@ include 'top.php';
             </div>
         </fieldset>
     </div>
+
+<script>
+
+    // **************** Script for displaying categoried projects *********************** //
+
+
+    // showAll() shows all cards
+    function showAll() {
+
+        // Display: Block on Academic
+        document.getElementById('andover-inn-proj-card').style.display = "block";
+        document.getElementById('andover-commons-proj-card').style.display = "block";
+        document.getElementById('andover-boat-house-proj-card').style.display = "block";
+        document.getElementById('bulfinch-proj-card').style.display = "block";
+        document.getElementById('owh-library-proj-card').style.display = "block";
+        document.getElementById('snyder-proj-card').style.display = "block";
+        document.getElementById('ashburn-chapel-proj-card').style.display = "block";
+
+    }
+
+
+    // showAdademic() really just hides any card not Academic
+    function showAcademic() {
+
+        // Hide all Clubs
+        
+
+        // Hide all Private Development
+
+    }
+
+    // showClubs() really just hides any card not Clubs
+    function showClubs() {
+
+        // Hide all Academic
+        document.getElementById('andover-inn-proj-card').style.display = "none";
+        document.getElementById('andover-commons-proj-card').style.display = "none";
+        document.getElementById('andover-boat-house-proj-card').style.display = "none";
+        document.getElementById('bulfinch-proj-card').style.display = "none";
+        document.getElementById('owh-library-proj-card').style.display = "none";
+        document.getElementById('snyder-proj-card').style.display = "none";
+        document.getElementById('ashburn-chapel-proj-card').style.display = "none";
+
+        // Hide all Private Development
+
+    }
+
+    // showPrivDev() really just hides any card not Private Development
+    function showPrivDev() {
+
+        // Hide all Academic
+        document.getElementById('andover-inn-proj-card').style.display = "none";
+        document.getElementById('andover-commons-proj-card').style.display = "none";
+        document.getElementById('andover-boat-house-proj-card').style.display = "none";
+        document.getElementById('bulfinch-proj-card').style.display = "none";
+        document.getElementById('owh-library-proj-card').style.display = "none";
+        document.getElementById('snyder-proj-card').style.display = "none";
+        document.getElementById('ashburn-chapel-proj-card').style.display = "none";
+
+        // Hide all Clubs
+
+    }
+
+</script>
 
     
 <?php
