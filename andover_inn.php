@@ -12,7 +12,7 @@ include 'top.php';
 	<img src="images/projects/andover_inn.jpg" alt="Andover Inn" id="andover-inn-main-img"/>
 
 	<p><strong>Client</strong><br>
-		Phillips Academy Andover</p><br>
+		<a href="https://www.andover.edu/">Phillips Academy Andover</a></p><br>
 
 	<p><strong>Project Value</strong><br>
 		$10.3 million</p><br>
@@ -24,10 +24,10 @@ include 'top.php';
 		2009-2010</p><br>
 
 	<p><strong>General Contractor</strong><br>
-		Erland Construction</p><br>
+		<a href="https://www.erland.com/">Erland Construction</a></p><br>
 
 	<p><strong>Architect</strong><br>
-		Arrowstreet Architects</p>
+		<a href="https://www.arrowstreet.com/">Arrowstreet Architects</a></p>
 
 
 	<div class="project-pics">

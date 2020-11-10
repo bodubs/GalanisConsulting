@@ -10,7 +10,7 @@ include 'top.php';
 	<h3>Andover, Massachusetts</h3><br>
 
 	<p><strong>Client</strong><br>
-		Phillips Academy Andover</p><br>
+		<a href="https://www.andover.edu/">Phillips Academy Andover</a></p><br>
 
 	<p><strong>Project Value</strong><br>
 		$6.5 million</p><br>
@@ -19,10 +19,10 @@ include 'top.php';
 		2012</p><br>
 
 	<p><strong>General Contractor</strong><br>
-		Windover Construction</p><br>
+		<a href="https://www.windover.com/">Windover Construction</a></p><br>
 
 	<p><strong>Architect</strong><br>
-		Architectural Resources Cambridge</p><br>
+		<a href="https://arcusa.com/">Architectural Resources Cambridge</a></p><br>
 
 	<div class="project-carousel-container">
 		<div class="project-carousel">
