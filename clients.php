@@ -8,7 +8,7 @@ include 'top.php';
         <h1 class="pages-title">Clients</h1>
 
         <fieldset class="projects pages-sect">
-            <legend><a onclick="showAll()">All</a> - <a onclick="showAcademic()">Academic</a> - <a onclick="showClubs()">Clubs</a> - Private Development</legend>
+            <legend id="client-legend"><a class="active" onclick="showAll(this)">All</a> - <a onclick="showAcademic(this)">Academic</a> - <a onclick="showClubs(this)">Clubs</a> - <a onclick="showPD(this)">Private Development</a></legend>
             <div class="icon-container">
                 <div class="card" id="brooks-client-card">
                     <a href="brooks.php">
@@ -49,35 +49,83 @@ include 'top.php';
 
     // Script for displaying categoried clients
 
+    const clientLegend = document.getElementById('client-legend');
+
+    const brooks = document.getElementById('brooks-client-card');
+    const bbn = document.getElementById('bbn-client-card');
+    const andover = document.getElementById('andover-client-card');
+    const pingree = document.getElementById('pingree-client-card');
+    const myopia = document.getElementById('myopia-client-card');
+    const ccb = document.getElementById('cc-brookline-client-card');
+
 
     // showAll() shows all cards
-    function showAll() {
+    function showAll(a) {
 
-        document.getElementById('brooks-client-card').style.display = "block";
-        document.getElementById('bbn-client-card').style.display = "block";
-        document.getElementById('andover-client-card').style.display = "block";
-        document.getElementById('pingree-client-card').style.display = "block";
-        document.getElementById('myopia-client-card').style.display = "block";
+        clearIcons();
+        clearLinks();
+        a.classList.add("active");
+
+        brooks.style.display = "block";
+        bbn.style.display = "block";
+        andover.style.display = "block";
+        pingree.style.display = "block";
+        myopia.style.display = "block";
+        ccb.style.display = "block";
 
     }
 
 
     // showAdademic() really just hides any card not Academic
-    function showAcademic() {
+    function showAcademic(a) {
+        clearIcons();
+        clearLinks();
+        a.classList.add("active");
 
-        document.getElementById('myopia-client-card').style.display = "none";
+        brooks.style.display = "block";
+        andover.style.display = "block";
+        pingree.style.display = "block";
+
+
 
     }
 
     // showClubs() really just hides any card not Clubs
-    function showClubs() {
+    function showClubs(a) {
+        clearIcons();
+        clearLinks();
+        a.classList.add("active");
 
-        document.getElementById('brooks-client-card').style.display = "none";
-        document.getElementById('bbn-client-card').style.display = "none";
-        document.getElementById('andover-client-card').style.display = "none";
-        document.getElementById('pingree-client-card').style.display = "none";
+        myopia.style.display = "block";
+        ccb.style.display = "block";
+
+
 
     }
+
+
+    function showPD(a) {
+
+        clearIcons();
+        clearLinks();
+        a.classList.add("active");
+
+    }
+    
+    function clearLinks() {
+        clientLegend.querySelector(".active").classList.remove("active");
+    }
+
+    function clearIcons() {
+        brooks.style.display = "none";
+        bbn.style.display = "none";
+        andover.style.display = "none";
+        pingree.style.display = "none";
+        myopia.style.display = "none";
+        ccb.style.display = "none";
+     
+    }
+
 
 </script>
 

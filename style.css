@@ -39,6 +39,7 @@ a{
 
 legend a:hover {
     color: var(--secondary-color);
+
 }
 
 .container{
@@ -61,8 +62,13 @@ legend {
     font-style: italic;
 }
 
+legend a.active {
+    color: #000000;
+    font-weight: 900;
+}
+
 .page-sect{
-    border-top: 1px dotted #000000;
+    /* border-top: 1px dotted #000000; */
     padding: 50px 0;
 }
 /* ********************************* HEADER SECTION ********************************* */

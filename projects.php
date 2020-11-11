@@ -8,7 +8,7 @@ include 'top.php';
         <h1 class="pages-title">Projects Gallery</h1>
 
         <fieldset class="projects pages-sect">
-            <legend><a onclick="showAll()" id="all-proj-tab">All</a> - <a onclick="showAcademic()" id="academic-proj-tab">Academic</a> - <a onclick="showClubs()" id="club-proj-tab">Clubs</a> - <a onclick="showPrivDev()" id="pd-proj-tab">Private Development</a></legend>
+            <!-- <legend><a onclick="showAll()" id="all-proj-tab">All</a> - <a onclick="showAcademic()" id="academic-proj-tab">Academic</a> - <a onclick="showClubs()" id="club-proj-tab">Clubs</a> - <a onclick="showPrivDev()" id="pd-proj-tab">Private Development</a></legend> -->
             <div class="card-container">
                 <div class="card" id="andover-inn-proj-card">
                     <a href="andover_inn.php">
