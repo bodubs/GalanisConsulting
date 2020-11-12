@@ -2,8 +2,6 @@
 /* ********************************* GENERIC ELEMENTS ********************************* */
 
 :root{
-    /* --main-color: #92bde7; */
-    /* --main-color: #7a9a95; */
     --main-color: #173f5f;
     --secondary-color: #6a6c6e;
     --body-color: #ffffff;
@@ -39,6 +37,7 @@ a{
 
 legend a:hover {
     color: var(--secondary-color);
+    cursor: pointer;
 
 }
 
@@ -512,15 +511,28 @@ nav{
     color: var(--main-color);
 }
 
-.card-container{
+.card-container {
     display: grid;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 80px;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
 }
 
-.card{
+.year-container {
+    display: flex;
+    flex-direction: column;
+    border-bottom: solid 1px #000000;
+    padding: 50px 0;
+
+}
+
+.year-container:last-child {
+    border-bottom: none;
+}
+
+.year-container h1 {
+    padding-bottom: 40px;
+}
+.card {
     width: 250px;
     text-align: left;
     margin: auto;
