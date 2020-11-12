@@ -9,6 +9,8 @@ include 'top.php';
 	<h2>Phillips Academy William H. Brown Boat House</h2>
 	<h3>Andover, Massachusetts</h3><br>
 
+	<img src="images/projects/boat_house.jpg" alt="Boat House" id="andover-inn-main-img">
+
 	<p><strong>Client</strong><br>
 		<a href="https://www.andover.edu/">Phillips Academy Andover</a></p><br>
 
@@ -22,9 +24,19 @@ include 'top.php';
 		<a href="https://www.windover.com/">Windover Construction</a></p><br>
 
 	<p><strong>Architect</strong><br>
-		<a href="https://arcusa.com/">Architectural Resources Cambridge</a></p><br>
+		<a href="https://arcusa.com/">Architectural Resources Cambridge</a></p><br/>
 
-	<div class="project-carousel-container">
+	<div class="project-pics">
+
+		<img src="images/projects/boat-house2.jpg" alt="Boat House Dock View" class="proj-img-solo"/>
+
+		<img src="images/projects/boat-house3.jpg" alt="Boat House Lobby" class="proj-img-solo"/>
+
+		<img src="images/projects/boat-house4.jpg" alt="Boat House Boat Room" class="proj-img-solo"/>
+
+	</div>
+
+	<!-- <div class="project-carousel-container">
 		<div class="project-carousel">
 			<div class="project-nav-arrow" id="arrow-left"><i class="fas fa-chevron-left"></i></div>
 			<div class="project-slide fade">
@@ -62,7 +74,7 @@ include 'top.php';
 			<button id="sm-arrow-right" class="sm-arrow"><i class="fas fa-chevron-right"></i></button>
 		</div>
 
-	</div>
+	</div> -->
 
 
 
@@ -77,7 +89,7 @@ include 'top.php';
 
 
 
-<script>
+<!-- <script>
 
 
 	var slideIndex = 1;
@@ -136,7 +148,7 @@ include 'top.php';
 		showSlides(slideIndex += 1);
 		updateThumbnails();
 	})
-</script>
+</script> -->
 
 
 <?php
