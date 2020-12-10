@@ -9,6 +9,40 @@ include 'top.php';
 
         <fieldset class="projects pages-sect">
             <div class="year-container">
+                <h1>2020</h1>
+                <div class="card-container">
+                    <div class="card" id="brooks-admissions-proj-card">
+                        <a href="brooks_admissions.php">
+                            <div class="content-container">
+                                <img src="images/projects/brooks_admissions.png" alt="Brooks School Admissions Building" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>Admissions Building</p>
+                                <p>Brooks School</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="card" id="brooks-admissions-proj-card">
+                        <a href="andover_pan.php">
+                            <div class="content-container">
+                                <img src="images/projects/brooks_admissions.png" alt="Phillips Academy Pan Athletic Center" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>Pan Athletic Center</p>
+                                <p>Phillips Academy</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="year-container">
                 <h1>2019</h1>
                 <div class="card-container">
                     <div class="card" id="owh-library-proj-card">
@@ -22,6 +56,20 @@ include 'top.php';
                             <div class="proj-img-text-div">
                                 <p>Oliver Wendell Holmes Library</p>
                                 <p>Phillips Academy</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="card" id="brooks-ca-proj-card">
+                        <a href="brooks_ca.php">
+                            <div class="content-container">
+                                <img src="images/projects/brooks_ca.png" alt="Brooks School Center for the Arts" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>Center for the Arts</p>
+                                <p>Brooks School</p>
                             </div>
                         </a>
                     </div>
@@ -61,6 +109,34 @@ include 'top.php';
                             <div class="proj-img-text-div">
                                 <p>Ashburn Chapel</p>
                                 <p>Brooks School</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="card" id="pingree-pva-proj-card">
+                        <a href="pingree_pva.php">
+                            <div class="content-container">
+                                <img src="images/projects/pingree_pva.jpg" alt="Pingree School Performing and Visual Arts Building" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>Performing and Visual Arts Building</p>
+                                <p>Pingree School</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="card" id="pingree-ac-proj-card">
+                        <a href="pingree_athletic_center.php">
+                            <div class="content-container">
+                                <img src="images/projects/pingree_ac_main.jpg" alt="Pingree School Athletic Center" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>Athletic Center</p>
+                                <p>Pingree School</p>
                             </div>
                         </a>
                     </div>
