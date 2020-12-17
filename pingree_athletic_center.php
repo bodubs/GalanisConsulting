@@ -9,7 +9,7 @@ include 'top.php';
 	<h2>Pingree School Athletic Center</h2>
 	<h3>South Hamilton, Massachusetts</h3>
 
-	<img src="images/projects/pingree_ac_main.jpg" alt="Athletic Center" id="pingree-ac-main-img">
+	<img src="images/projects/pingree_ac_main.jpg" alt="Athletic Center" id="andover-inn-main-img">
 
 	<p><strong>Client</strong><br>
 		<a href="https://www.pingree.org/">Pingree School</a></p><br>

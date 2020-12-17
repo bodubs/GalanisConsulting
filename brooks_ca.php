@@ -9,7 +9,7 @@ include 'top.php';
 	<h2>The Brooks School Center for the Arts</h2>
 	<h3>North Andover, Massachusetts</h3>
 
-	<img src="images/projects/brooks_ca.png" alt="Center for the Arts" id="pingree-ac-main-img">
+	<img src="images/projects/brooks_ca.png" alt="Center for the Arts" id="andover-inn-main-img">
 
 	<p><strong>Client</strong><br>
 		<a href="https://www.brooksschool.org/">The Brooks School</a></p><br>
