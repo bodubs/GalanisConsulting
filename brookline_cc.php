@@ -9,7 +9,7 @@ include 'top.php';
 	<h2>The Country Club</h2>
 	<h3>Brookline, Massachusetts</h3>
 
-	<img src="images/projects/pingree_ac_main.jpg" alt="Athletic Center" id="pingree-ac-main-img">
+	<img src="images/projects/pingree_ac_main.jpg" alt="Athletic Center" id="andover-inn-main-img">
 
 	<p><strong>Client</strong><br>
 		<a href="https://www.tcclub.org/club/scripts/public/public.asp">The Country Club</a></p><br>

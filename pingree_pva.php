@@ -37,7 +37,13 @@ include 'top.php';
 
 	</div>
 
-	<p>The project consisted of renovations to the existing classroom spaces, and theater along with the construction of a new two story 14,754 SF addition adjacent to the theater building.   This new state of the art center consists of two floors including the 400 seat Mary Weld Theater.  Visual and Performing arts classes in ceramics; dance; digital and wet photography labs; a theater scene shop; instrumental and choral recital rooms; a digital music lab; practice and rehearsal spaces; a recording studio and control booth.  Each classroom is wired to a central control room with equipment used in professional recording studios.</p>
+	<p>The project consisted of renovations to the existing classroom spaces, and theater along with the construction of a new two story 14,754 SF addition adjacent to the theater building.   This new state of the art center consists of two floors including the 400 seat Mary Weld Theater.  Visual and Performing arts classes in ceramics; dance; digital and wet photography labs; a theater scene shop; instrumental and choral recital rooms; a digital music lab; practice and rehearsal spaces; a recording studio and control booth.  Each classroom is wired to a central control room with equipment used in professional recording studios.<br><br></p>
+
+
+	<h3>Asscociated Links:</h3>
+	<p><a href="https://www.pingree.org/">https://www.pingree.org/</a></p>
+	<p><a href="https://cefloyd.com/">https://cefloyd.com/</a></p>
+	<p><a href="https://olsonlewis.com/">https://olsonlewis.com/</a></p>
 </div>
 
 <?php

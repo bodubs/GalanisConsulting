@@ -37,7 +37,12 @@ include 'top.php';
 
 	</div>
 
-	<p>The Brooks School continued their 270 acre campus transformation with the construction of the new 48,000 SF Center for the Arts in 2017 building this state of the art facility in the center of campus. An extensive Site Plan Approval process was required for the sensitivity of the adjacent Town of North Andover reservoir, in addition to the historic review process of existing buildings prior to construction. The three interconnected structures form program space for performing arts, music, and visual arts. The 387 seat performance theater is designed to accommodate the entire student body and connects to the 1200 sq. ft. 70 seat black box theater. The music spaces include rehearsal and 5 ensemble spaces, four practice rooms, a choir room, and a  recording studio. The visual arts section of the building features kilns in a ceramics space, 2D/3D art space, and wet and digital photography spaces.</p>
+	<p>The Brooks School continued their 270 acre campus transformation with the construction of the new 48,000 SF Center for the Arts in 2017 building this state of the art facility in the center of campus. An extensive Site Plan Approval process was required for the sensitivity of the adjacent Town of North Andover reservoir, in addition to the historic review process of existing buildings prior to construction. The three interconnected structures form program space for performing arts, music, and visual arts. The 387 seat performance theater is designed to accommodate the entire student body and connects to the 1200 sq. ft. 70 seat black box theater. The music spaces include rehearsal and 5 ensemble spaces, four practice rooms, a choir room, and a  recording studio. The visual arts section of the building features kilns in a ceramics space, 2D/3D art space, and wet and digital photography spaces.<br><br></p>
+
+	<h3>Asscociated Links:</h3>
+	<p><a href="https://www.brooksschool.org/">https://www.brooksschool.org/</a></p>
+	<p><a href="https://www.consigli.com/">https://www.consigli.com/</a></p>
+	<p><a href="https://www.annbeha.com/">https://www.annbeha.com/</a></p>
 
 </div>
 

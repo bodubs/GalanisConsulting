@@ -37,7 +37,13 @@ include 'top.php';
 
 	</div>
 
-	<p>Since 2014 the growth and construction at  The Brooks School has been guided by  Galanis Consulting, LLC for their major  construction projects including the historic  Ashburn Chapel renovation, the award  winning Center for the Arts, and most  recently the new Admissions Building and  it’s related enabling projects including  studies for the renovations of the Wilder  Commons Building.<br><br>Phase 1 of the project includes an extensive  relocation of utilities down the Main Street  of the busy campus. Phase 2 includes the  demolition of a portion of the Head of  School House, and Alumni Hall. Phase 3 is  the new construction of the 6,000 square  foot new Admissions Building. </p>
+	<p>Since 2014 the growth and construction at  The Brooks School has been guided by  Galanis Consulting, LLC for their major  construction projects including the historic  Ashburn Chapel renovation, the award  winning Center for the Arts, and most  recently the new Admissions Building and  it’s related enabling projects including  studies for the renovations of the Wilder  Commons Building.<br><br>Phase 1 of the project includes an extensive  relocation of utilities down the Main Street  of the busy campus. Phase 2 includes the  demolition of a portion of the Head of  School House, and Alumni Hall. Phase 3 is  the new construction of the 6,000 square  foot new Admissions Building. <br><br></p>
+
+	<h3>Asscociated Links:</h3>
+	<p><a href="https://www.brooksschool.org/">https://www.brooksschool.org/</a></p>
+	<p><a href="https://www.consigli.com/">https://www.consigli.com/</a></p>
+	<p><a href="https://arcusa.com/">https://arcusa.com/</a></p>
+
 </div>
 
 <?php

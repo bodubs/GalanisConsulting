@@ -37,7 +37,13 @@ include 'top.php';
 
 	</div>
 
-	<p>New Title V Septic System for campus use as Phase I of the Enabling Phase for the project.   Extensive ledge and blasting as Phase II of the project to allow for completion of Enabling Phase.  Design/Build structure coordinated with architectural team for expediting construction of gymnasium.  Structure include a 100’ clear span for basketball courts.  The main gymnasium building includes three full size basketball courts.  Structure include ten interconnected steel framed building including the 20,400 square foot main basketball court structure.  Structure included varying sizes from 312 square foot vestibule entry to main gym structure.   3” thick R23 Metal Span panels with standing seam metal roof supporting solar system.<br><br>Program space consists of highly finished Alumni Room with working fireplace; Training Room; Offices; Locker Rooms; Equipment Room.</p>
+	<p>New Title V Septic System for campus use as Phase I of the Enabling Phase for the project.   Extensive ledge and blasting as Phase II of the project to allow for completion of Enabling Phase.  Design/Build structure coordinated with architectural team for expediting construction of gymnasium.  Structure include a 100’ clear span for basketball courts.  The main gymnasium building includes three full size basketball courts.  Structure include ten interconnected steel framed building including the 20,400 square foot main basketball court structure.  Structure included varying sizes from 312 square foot vestibule entry to main gym structure.   3” thick R23 Metal Span panels with standing seam metal roof supporting solar system.<br><br>Program space consists of highly finished Alumni Room with working fireplace; Training Room; Offices; Locker Rooms; Equipment Room.<br><br></p>
+
+
+	<h3>Asscociated Links:</h3>
+	<p><a href="https://www.pingree.org/">https://www.pingree.org/</a></p>
+	<p><a href="https://cefloyd.com/">https://cefloyd.com/</a></p>
+	<p><a href="https://olsonlewis.com/">https://olsonlewis.com/</a></p>
 
 </div>
 
