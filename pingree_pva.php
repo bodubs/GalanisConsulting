@@ -39,6 +39,10 @@ include 'top.php';
 
 	<p>The project consisted of renovations to the existing classroom spaces, and theater along with the construction of a new two story 14,754 SF addition adjacent to the theater building.   This new state of the art center consists of two floors including the 400 seat Mary Weld Theater.  Visual and Performing arts classes in ceramics; dance; digital and wet photography labs; a theater scene shop; instrumental and choral recital rooms; a digital music lab; practice and rehearsal spaces; a recording studio and control booth.  Each classroom is wired to a central control room with equipment used in professional recording studios.<br><br></p>
 
+	<!-- <div id="live-stream">
+		<video id="video-player_html5_api" class="vjs-tech" preload="auto" autoplay="" src="http://archives.earthcam.com/archives5/ecnetwork/us/ma/south-hamilton/pingree-school/archive2/timelapse/timelapse.mp4"></video>
+	</div> -->
+
 
 	<h3>Asscociated Links:</h3>
 	<p><a href="https://www.pingree.org/">https://www.pingree.org/</a></p>

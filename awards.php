@@ -27,6 +27,12 @@ include 'top.php';
                         <li><p>
                             US Green Building Council LEED-NC, Level Platinum
                         </p></li> 
+                        <li><p>
+                            2019 Honors Award for Design Excellence, BSA
+                        </p></li>
+                        <li><p>
+                            Build New England Performance Award by the Associated General Contractors of Massachusetts (AGC MA)
+                        </p></li>
                     </ul>
 
                 </div>

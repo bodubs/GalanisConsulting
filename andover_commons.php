@@ -15,7 +15,7 @@ include 'top.php';
 		<a href="https://www.andover.edu/">Phillips Academy Andover</a></p><br>
 
 	<p><strong>Project Value</strong><br>
-		$10.3 million</p><br>
+		$34.5 million</p><br>
 
 	<p><strong>Building Size</strong><br>
 		33,000 square feet</p><br>

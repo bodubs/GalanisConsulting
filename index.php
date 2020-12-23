@@ -43,7 +43,7 @@ include 'top.php';
     </section>
 
     <section class="mantra">
-        <h1>Safe. Sustainable. Innovative.</h1>
+        <h1>Sustainable. Innovation.<br>Historic Preservation.</h1>
         
     </section>
 

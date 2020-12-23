@@ -210,6 +210,25 @@ include 'top.php';
                     </div>
                 </div>
             </div>
+            <div class="year-container">
+                <h1>2007</h1>
+                <div class="card-container">
+                    <div class="card" id="macallen-proj-card">
+                        <a href="macallen.php">
+                            <div class="content-container">
+                                <img src="images/projects/macallen1.jpg" alt="MacAllen Building" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>MacAllen Building</p>
+                                <p>Pappas Properties</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
 
 
 

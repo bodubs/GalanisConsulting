@@ -270,6 +270,7 @@ nav{
 .mantra h1{
     font-size: 50px;
     color: var(--secondary-color);
+    text-align: center;
 }
 
 
@@ -328,7 +329,7 @@ nav{
 
 
 .icon-container{
-    padding: 80px 0;
+    padding: 0;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
     align-items: center;
@@ -504,6 +505,8 @@ nav{
     border-left: none;
     border-right: none;
     color: var(--secondary-color);
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .card a {
@@ -808,6 +811,19 @@ nav{
 
 #snyder-header {
     background-image: url('images/projects/snyder_center.jpg');
+}
+
+/* ********* Pingree PVA ******** */
+
+#live-stream {
+    height: 100px;
+}
+
+/* ********* MacAllen Building ******** */
+
+#mac-list {
+    list-style-type: circle;
+    padding-left: 30px;
 }
 
 
