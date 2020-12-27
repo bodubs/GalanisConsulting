@@ -9,6 +9,14 @@ include 'top.php';
         <div class="slider">
             <div class="slide current">
                 <div class="content">
+                    <h3>Slide One</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, maiores quis voluptate error minima facilis.</p>
+                    <a class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
+
+                </div>
+            </div>
+            <div class="slide">
+                <div class="content">
                     <h3>Snyder Athletic Center, Andover MA</h3>
                     <p>Completed in 2017, the multi-sport field house facility holds a LEED Platinum designation...</p>
                     <a href="snyder.php"class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
@@ -38,6 +46,7 @@ include 'top.php';
             <button class="nav-dot current" onclick="currentSlide(1)"></button>
             <button class="nav-dot" onclick="currentSlide(2)"></button>
             <button class="nav-dot" onclick="currentSlide(3)"></button>
+            <button class="nav-dot" onclick="currentSlide(4)"></button>
         </div>
 
     </section>

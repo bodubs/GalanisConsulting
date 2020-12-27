@@ -233,15 +233,18 @@ nav{
 }
 
 .slide:first-child{
+    background: url("images/projects/macallen1.jpg") no-repeat center center/cover;
+}
+.slide:nth-child(2){
     background: url("images/projects/snyder_center-slider.jpg") no-repeat center center/cover;
 }
 
-.slide:nth-child(2){
+.slide:nth-child(3){
     background: url("images/projects/Bulfinch1-slider.JPG") no-repeat center top/cover;
     
 }
 
-.slide:nth-child(3){
+.slide:nth-child(4){
     background: url("images/projects/andover-inn2.jpg") no-repeat center center/cover;
 }
 
@@ -329,7 +332,7 @@ nav{
 
 
 .icon-container{
-    padding: 0;
+    padding: 60px 0;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
     align-items: center;
