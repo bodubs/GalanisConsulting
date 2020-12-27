@@ -9,9 +9,9 @@ include 'top.php';
         <div class="slider">
             <div class="slide current">
                 <div class="content">
-                    <h3>Slide One</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, maiores quis voluptate error minima facilis.</p>
-                    <a class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
+                    <h3>MacAllen Building, South Boston MA</h3>
+                    <p>The project involved the construction of a new 15 story, 354,000 sf structural steel residential building that will contain 143 apartments...</p>
+                    <a href="macallen.php" class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
 
                 </div>
             </div>
@@ -31,9 +31,9 @@ include 'top.php';
             </div>
             <div class="slide">
                 <div class="content">
-                    <h3>Slide Three</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, maiores quis voluptate error minima facilis.</p>
-                    <a class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
+                    <h3>Anover Inn, Andover MA</h3>
+                    <p>Listed on the National Register of Historic Inns and a campus icon since 1930, the inn is known regionally and nationally...</p>
+                    <a href="andover_inn.php" class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
 
                 </div>
             </div>
@@ -49,11 +49,6 @@ include 'top.php';
             <button class="nav-dot" onclick="currentSlide(4)"></button>
         </div>
 
-    </section>
-
-    <section class="mantra">
-        <h1>Sustainable. Innovation.<br>Historic Preservation.</h1>
-        
     </section>
 
     <section class="attributes">

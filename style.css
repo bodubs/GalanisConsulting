@@ -263,20 +263,6 @@ nav{
     background: grey;
 }
 
-.mantra{
-    height: 500px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.mantra h1{
-    font-size: 50px;
-    color: var(--secondary-color);
-    text-align: center;
-}
-
-
 .attributes{
     background: var(--secondary-color);
     display: flex;

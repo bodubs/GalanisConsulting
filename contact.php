@@ -34,8 +34,7 @@ $errorInputCSS = ' style="border: 1px solid red; border-radius: 3px; outline-col
     <p>John Galanis</p>
     <p>1 Lillian Drive</p>
     <p>Ipswich, MA 01938</p><br>
-    <p>Email: galanisllc@comcast.net</p>
-    <p>Phone: (978) 815-1854</p><br>
+    <p>Email: galanisllc@comcast.net</p><br>
     <a href="https://www.linkedin.com/in/john-galanis-79577382/" target="_blank" id="li-contact-link"><img class="li-icon" src="images/icons/li-icon.png" alt="Linked-In">LinkedIn</a>
 </div>
 
