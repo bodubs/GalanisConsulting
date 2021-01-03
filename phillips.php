@@ -36,6 +36,19 @@ include 'top.php';
                     </a>
                 </div>
                 <div class="card">
+                    <a href="belltower.php">
+                        <div class="content-container">
+                            <img src="images/projects/belltower1.jpg" alt="Phillips Academy Bell Tower" class="projects-img"/>
+                            <div class="view-project-middle">
+                                <div class="view-project-text">View Project</div>
+                            </div>
+                        </div>
+                        <div class="proj-img-text-div">
+                            <p>Bell Tower</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="card">
                     <a href="andover_boat_house.php">
                         <div class="content-container">
                             <img src="images/projects/boat_house.jpg" alt="Phillips Academy Boat House" class="projects-img"/>
@@ -75,6 +88,19 @@ include 'top.php';
                     </a>
                 </div>
                 <div class="card">
+                    <a href="smith.php">
+                        <div class="content-container">
+                            <img src="images/projects/smith3.jpg" alt="Smith Center" class="projects-img"/>
+                            <div class="view-project-middle">
+                                <div class="view-project-text">View Project</div>
+                            </div>
+                        </div>
+                        <div class="proj-img-text-div">
+                            <p>Smith Center</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="card">
                     <a href="snyder.php">
                         <div class="content-container">
                             <img src="images/projects/snyder_center.jpg" alt="Phillips Academy Snyder Athletic Center" class="projects-img"/>
@@ -84,6 +110,19 @@ include 'top.php';
                         </div>
                         <div class="proj-img-text-div">
                             <p>Snyder Athletic Center</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="card">
+                    <a href="sykes.php">
+                        <div class="content-container">
+                            <img src="images/projects/sykes1.jpg" alt="Sykes Wellness Center" class="projects-img"/>
+                            <div class="view-project-middle">
+                                <div class="view-project-text">View Project</div>
+                            </div>
+                        </div>
+                        <div class="proj-img-text-div">
+                            <p>Sykes Wellness Center</p>
                         </div>
                     </a>
                 </div>

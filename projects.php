@@ -96,6 +96,26 @@ include 'top.php';
                 </div>
             </div>
             <div class="year-container">
+                <h1>2016</h1>
+                <div class="card-container">
+                    <div class="card" id="sykes-proj-card">
+                        <a href="sykes.php">
+                            <div class="content-container">
+                                <img src="images/projects/sykes1.jpg" alt="Sykes Wellness Center" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>Sykes Wellness Center</p>
+                                <p>Phillips Academy</p>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+            <div class="year-container">
                 <h1>2015</h1>
                 <div class="card-container">
                     <div class="card" id="ashburn-chapel-proj-card">
@@ -224,6 +244,39 @@ include 'top.php';
                             <div class="proj-img-text-div">
                                 <p>MacAllen Building</p>
                                 <p>Pappas Properties</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="card" id="smith-proj-card">
+                        <a href="smith.php">
+                            <div class="content-container">
+                                <img src="images/projects/smith3.jpg" alt="Smith Center" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>Smith Center</p>
+                                <p>Phillips Andover</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="year-container">
+                <h1>2005</h1>
+                <div class="card-container">
+                    <div class="card" id="belltower-proj-card">
+                        <a href="belltower.php">
+                            <div class="content-container">
+                                <img src="images/projects/belltower1.jpg" alt="Phillips Bell Tower" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>Bell Tower</p>
+                                <p>Phillips Andover</p>
                             </div>
                         </a>
                     </div>
