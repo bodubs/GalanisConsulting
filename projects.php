@@ -282,6 +282,25 @@ include 'top.php';
                     </div>
                 </div>
             </div>
+            <div class="year-container">
+                <h1>2000</h1>
+                <div class="card-container">
+                    <div class="card" id="bhs-proj-card">
+                        <a href="bhs.php">
+                            <div class="content-container">
+                                <img src="images/projects/bhs1.jpg" alt="Belmont Hill School Jordan Athletic Center" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>Jordan Athletic Center</p>
+                                <p>Belmont Hill School</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
 
 
 
