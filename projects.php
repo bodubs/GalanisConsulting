@@ -280,6 +280,20 @@ include 'top.php';
                             </div>
                         </a>
                     </div>
+                    <div class="card" id="somerset-proj-card">
+                        <a href="somerset.php">
+                            <div class="content-container">
+                                <img src="images/projects/somerset1.jpg" alt="Somerset Club" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>Multiple Capital Improvements</p>
+                                <p>Somerset Club</p>
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
             <div class="year-container">
