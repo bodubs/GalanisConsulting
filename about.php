@@ -64,7 +64,8 @@
 
             </div>
 
-            <div id="lend-lease" style="display:none;">
+            <div id="lend-lease" class="early-work-dropdown">
+                <button class="close-button"><i class="fas fa-times"></i></button>
                 <br><p>NYNEX-Lehrer McGovern Bovis<br>
                 Construction project manager at various locations:</p>
                 <p>Projects include Roxbury DWD, Nantucket C.O. structural renovations, Natick DWD, Somerville broad band, Foxboro Hot Slide, Braintree mega center, and various office renovation projects at 185 Franklin Street, 245 State Street and 125 High Street in Boston, Massachusetts.</p><br>
@@ -78,7 +79,8 @@
                 Construction project manager for a $2 Million 127,000 square foot renovation to a 200 private room eldercare facility replacing out-dated mechanical, heating, ventilation and fire protection methods with state-of-the-art systems. Project consisted of three phases including the moves with the occupants from phase to phase.</p>
             </div>
 
-            <div id="pappas-pm" style="display:none;">
+            <div id="pappas-pm" class="early-work-dropdown">
+                <button class="close-button"><i class="fas fa-times"></i></button>
                 <br><p>40 Beacon Street-Pappas Management Corp.<br>Boston, MA<br>
                 Construction Project Manager for the restoration of a “National Historic Landmark” as listed by the United States Department of Interior with approximately 23,000sf designed by architect Alexander Parris.</p><br>
                 <p>435 Summer Street-Pappas Management Corp.<br>Boston, MA<br>
@@ -91,7 +93,8 @@
                 Construction project manager/ superintendent for a seven story 140,000 sf. office building. Tenant space buildout for New England Telephone, Boston Water and Sewer Commission, and the BSC Group. Total value $4 million.</p>
             </div>
 
-            <div id="pappas-pe" style="display:none;">
+            <div id="pappas-pe" class="early-work-dropdown">
+                <button class="close-button"><i class="fas fa-times"></i></button>
                 <br><p>Gateway Office Tower-Pappas Management Corp.<br>White Plains, NY<br>
                 Superintendent for a 500,000 SF office and retail building. Cast-in-place concrete/post tensioned structure. Total value $50 million.</p><br>
                 <p>Gateway Parking Garage-Pappas Management Corp.<br>White Plains, NY<br>
@@ -100,7 +103,8 @@
                 Construction project manager, and superintendent for a 60,000 SF terminal with construction value of $5 million. Reconstruction of three city streets, including traffic control, sidewalks, and landscaping.</p>
             </div>
 
-            <div id="perini" style="display:none;">
+            <div id="perini" class="early-work-dropdown">
+                <button class="close-button"><i class="fas fa-times"></i></button>
                 <br><p>Projects Include:</p><br>
                 <p>Trump Plaza Hotel/Casino-Perini Corporation: Atlantic City, NJ Field engineer for a thirty-four story hotel, casino, pool, theater, and 250 car underground garage. 1,100,000 SF, $120 million value</p>
             </div>
@@ -129,25 +133,71 @@
 
 <script>
 
-    // Function for displaying details on each of his earlier jobs
 
+
+
+    const aboutCards = document.querySelectorAll(".early-work-card");
+    const dropdowns = document.querySelectorAll(".early-work-dropdown");
+    
+
+    const lendLease = document.getElementById('lend-lease');
+    const pappasPM = document.getElementById('pappas-pm');
+    const pappasPE = document.getElementById('pappas-pe');
+    const perini = document.getElementById('perini');
+    const closeBtns = document.querySelectorAll('.close-button');
+
+    // Function for displaying details on each of his earlier jobs
     function showDetails(n) {
 
-        document.getElementById('lend-lease').style.display = "none";
-        document.getElementById('pappas-pm').style.display = "none";
-        document.getElementById('pappas-pe').style.display = "none";
-        document.getElementById('perini').style.display = "none";
+        removeActiveDropdown();
+
+        removeActiveCard();
 
         if (n == 1) {
-            document.getElementById('lend-lease').style.display = "block";
+            aboutCards[0].classList.add("active");
+            dropdowns[0].classList.add("active");
         } else if (n == 2) {
-            document.getElementById('pappas-pm').style.display = "block";
+            pappasPM.classList.add("active");
+            aboutCards[1].classList.add("active");
         } else if (n == 3) {
-            document.getElementById('pappas-pe').style.display = "block";
+            pappasPE.classList.add("active");
+            aboutCards[2].classList.add("active");
         } else if (n == 4) {
-            document.getElementById('perini').style.display = "block";
+            perini.classList.add("active");
+            aboutCards[3].classList.add("active");
         }
     }
+
+    function removeActiveDropdown() {
+        var activeDropDown = document.querySelector('.early-work-dropdown.active');
+
+        if (activeDropDown) {
+            activeDropDown.classList.remove('active');
+        }
+    }
+
+   function removeActiveCard() {
+       var activeCard = document.querySelector('.early-work-card.active');
+
+       if (activeCard) {
+            activeCard.classList.remove('active');
+        }
+   }
+ 
+    for (i of closeBtns) {
+        i.addEventListener("click", function() {
+            removeActiveDropdown();
+            removeActiveCard();
+        })
+    }
+
+    // closeBtn.addEventListener("click", function() {
+    //     removeActiveDropdown();
+    //     lendLease.style.display = "none";
+    //     pappasPM.style.display = "none";
+    //     pappasPE.style.display = "none";
+    //     perini.style.display = "none";
+    // })
 
 </script>
 

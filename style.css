@@ -416,6 +416,32 @@ nav{
     transition-property: transform;
 }
 
+.early-work-dropdown.active {
+    display: block;
+}
+
+.early-work-dropdown {
+    display: none;
+    position: relative;
+}
+.close-button {
+    position: absolute;
+    z-index: 1;
+    right: -50px;
+    top: 50px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 18px;
+    background-color: #c4c4c4;
+}
+
+
+.early-work-card.active {
+    color: #000000;
+}
+
 .early-work-card:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
@@ -505,8 +531,9 @@ nav{
 
 .card-container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 60px;
 }
 
 .year-container {
