@@ -65,18 +65,39 @@
             </div>
 
             <div id="lend-lease" style="display:none;">
-                <br><p>Projects Include:</p><br>
-                <p>Roxbury DWD, Nantucket C.O. structural renovations, Natick DWD, Somerville broad band, Foxboro Hot Slide, Braintree mega center, and various office renovation projects at 185 Franklin Street, 245 State Street and 125 High Street in Boston, Massachusetts.</p>
+                <br><p>NYNEX-Lehrer McGovern Bovis<br>
+                Construction project manager at various locations:</p>
+                <p>Projects include Roxbury DWD, Nantucket C.O. structural renovations, Natick DWD, Somerville broad band, Foxboro Hot Slide, Braintree mega center, and various office renovation projects at 185 Franklin Street, 245 State Street and 125 High Street in Boston, Massachusetts.</p><br>
+                <p>Town of Saugus-Lehrer McGovern Bovis<br>Saugus, MA<br>
+                Program Management services; This $20M Capital Improvement Program involved design and construction of five (5) municipal buildings, including the renovation of the Town’s historic Town Hall, new senior center, new public library, new DPW, new safety building Work included program concept through construction.</p><br>
+                <p>St. Cecilia’s Home-Lehrer McGovern Bovis<br>Boston, MA<br>
+                Owner’s representative for a 123 unit Elderly Housing facility sponsored by the Archdiocese of Boston. Responsible for preconstruction budgeting activities, value engineering to achieve owner budget and constructability analysis.</p><br>
+                <p>CISCO Systems-Lehrer McGovern Bovis<br>Chelmsford, MA<br>
+                Owner’s representative for a 140,000 Square Foot fast track - design build project consisting of office renovations, cabling and communications coordination, and electronic test laboratory construction. Total project value: $2.5 million.</p><br>
+                <p>Fontbonne Hall-Lehrer McGovern Bovis<br>Framingham, MA<br>
+                Construction project manager for a $2 Million 127,000 square foot renovation to a 200 private room eldercare facility replacing out-dated mechanical, heating, ventilation and fire protection methods with state-of-the-art systems. Project consisted of three phases including the moves with the occupants from phase to phase.</p>
             </div>
 
             <div id="pappas-pm" style="display:none;">
-                <br><p>Projects Include:</p><br>
-                <p>“National Historic Landmark” as listed by the United States Department of Interior with approximately 23,000sf designed by architect Alexander Parris.</p>
+                <br><p>40 Beacon Street-Pappas Management Corp.<br>Boston, MA<br>
+                Construction Project Manager for the restoration of a “National Historic Landmark” as listed by the United States Department of Interior with approximately 23,000sf designed by architect Alexander Parris.</p><br>
+                <p>435 Summer Street-Pappas Management Corp.<br>Boston, MA<br>
+                Construction project manager/superintendent for a 500-car, four level underground parking garage. Slurry wall and mat foundation system. Post tension concrete structure. Total value $16 million.</p><br>
+                <p>Commercial Union Warehouse-Pappas Management Corp.<br>Boston, MA<br>
+                Construction project manager/superintendent for a 63,000 SF warehouse, offices, and print shops. Value $3 million.</p>
+                <p>The Pappas Building, 655 Summer Street<br>Boston, MA<br>
+                Construction project manger/superintendent for a three story, 15,000 SF corporate headquarters. Precast pile foundation, with structural steel superstructure. Total value $3.4 million.</p><br>
+                <p>425 Summer Street-Pappas Management Corp.<br>Boston, MA<br>
+                Construction project manager/ superintendent for a seven story 140,000 sf. office building. Tenant space buildout for New England Telephone, Boston Water and Sewer Commission, and the BSC Group. Total value $4 million.</p>
             </div>
 
             <div id="pappas-pe" style="display:none;">
-                <br><p>Projects Include:</p><br>
-                <p>Superintendent for a 500,000 SF office and retail building. Cast-in-place concrete/post tensioned structure. Total value $50 million.</p>
+                <br><p>Gateway Office Tower-Pappas Management Corp.<br>White Plains, NY<br>
+                Superintendent for a 500,000 SF office and retail building. Cast-in-place concrete/post tensioned structure. Total value $50 million.</p><br>
+                <p>Gateway Parking Garage-Pappas Management Corp.<br>White Plains, NY<br>
+                Construction project manager/superintendent for a 1,300 car garage, five levels above grade, three levels below grade. An extensive dewatering system, along with pile and lagging earth retention system with tie-backs was utilized to install foundations. Total value $14 million.</p><br>
+                <p>City of White Plains Municipal Bus Terminal-Pappas Management Corp.<br>White Plains, NY<br>
+                Construction project manager, and superintendent for a 60,000 SF terminal with construction value of $5 million. Reconstruction of three city streets, including traffic control, sidewalks, and landscaping.</p>
             </div>
 
             <div id="perini" style="display:none;">
