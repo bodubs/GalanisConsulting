@@ -75,6 +75,19 @@ include 'top.php';
                     </a>
                 </div>
                 <div class="card">
+                    <a href="gelb.php">
+                        <div class="content-container">
+                            <img src="images/projects/gelb1.jpg" alt="Gelb Science Center" class="projects-img"/>
+                            <div class="view-project-middle">
+                                <div class="view-project-text">View Project</div>
+                            </div>
+                        </div>
+                        <div class="proj-img-text-div">
+                            <p>Gelb Science Center</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="card">
                     <a href="owh_library.php">
                         <div class="content-container">
                             <img src="images/projects/owh_library.jpg" alt="Phillips Academy Oliver Wendell Holmes Library" class="projects-img"/>

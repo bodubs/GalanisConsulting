@@ -283,6 +283,39 @@ include 'top.php';
                 </div>
             </div>
             <div class="year-container">
+                <h1>2004</h1>
+                <div class="card-container">
+                    <div class="card" id="gelb-proj-card">
+                        <a href="gelb.php">
+                            <div class="content-container">
+                                <img src="images/projects/gelb1.jpg" alt="Gelb Science Center" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>Gelb Science Center</p>
+                                <p>Phillips Andover</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="card" id="pingreeNA-proj-card">
+                        <a href="pingreeNA.php">
+                            <div class="content-container">
+                                <img src="images/projects/pingreeNA1.jpg" alt="Pingree New Academic Building" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>New Academic Building</p>
+                                <p>Pingree School</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="year-container">
                 <h1>2000</h1>
                 <div class="card-container">
                     <div class="card" id="bhs-proj-card">

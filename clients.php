@@ -46,7 +46,7 @@ include 'top.php';
                     </a>
                 </div>
                 <div class="card" id="pingree-client-card">
-                    <a href="andover_inn.php">
+                    <a href="pingree.php">
                         <img src="images/logos/pingree-logo.png" alt="Pingree School Logo" class="client-logos"/>
                     </a>
                 </div>
