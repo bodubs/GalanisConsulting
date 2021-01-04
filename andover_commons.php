@@ -20,8 +20,8 @@ include 'top.php';
 	<p><strong>Building Size</strong><br>
 		33,000 square feet</p><br>
 
-	<p><strong>Construction Schedule</strong><br>
-		2009-2010</p><br>
+	<p><strong>Completion</strong><br>
+		2010</p><br>
 
 	<p><strong>General Contractor</strong><br>
 		<a href="https://www.erland.com/">Erland Construction</a></p><br>
