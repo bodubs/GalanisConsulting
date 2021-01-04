@@ -208,6 +208,20 @@ include 'top.php';
                             </div>
                         </a>
                     </div>
+                    <div class="card" id="myopia-proj-card">
+                        <a href="myopia_hunt.php">
+                            <div class="content-container">
+                                <img src="images/projects/myopia1.jpg" alt="Myopia Hunt Club" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>Multiple Capital Improvements</p>
+                                <p>Myopia Hunt Club</p>
+                            </div>
+                        </a>
+                    </div>
 
                 </div>
             </div> 

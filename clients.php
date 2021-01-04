@@ -31,7 +31,7 @@ include 'top.php';
                     </a>
                 </div>
                 <div class="card" id="myopia-client-card">
-                    <a href="andover_inn.php">
+                    <a href="myopia_hunt.php">
                         <img src="images/logos/myopia-logo.png" alt="Myopia Hunt Club Logo" class="client-logos" id="bbn-logo"/>
                     </a>
                 </div>
