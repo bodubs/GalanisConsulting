@@ -88,6 +88,19 @@ include 'top.php';
                     </a>
                 </div>
                 <div class="card">
+                    <a href="phillips_rink.php">
+                        <div class="content-container">
+                            <img src="images/projects/gelb1.jpg" alt="Gelb Science Center" class="projects-img"/>
+                            <div class="view-project-middle">
+                                <div class="view-project-text">View Project</div>
+                            </div>
+                        </div>
+                        <div class="proj-img-text-div">
+                            <p>Hockey Rinks</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="card">
                     <a href="owh_library.php">
                         <div class="content-container">
                             <img src="images/projects/owh_library.jpg" alt="Phillips Academy Oliver Wendell Holmes Library" class="projects-img"/>
@@ -97,6 +110,19 @@ include 'top.php';
                         </div>
                         <div class="proj-img-text-div">
                             <p>Oliver Wendell Holmes Library</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="card">
+                    <a href="phelps.php">
+                        <div class="content-container">
+                            <img src="images/projects/phelps1.jpg" alt="Phelps Stadium" class="projects-img"/>
+                            <div class="view-project-middle">
+                                <div class="view-project-text">View Project</div>
+                            </div>
+                        </div>
+                        <div class="proj-img-text-div">
+                            <p>Phelps Stadium</p>
                         </div>
                     </a>
                 </div>
