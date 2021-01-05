@@ -9,7 +9,7 @@ include 'top.php';
 	<h2>Richard L. Gelb Science Center</h2>
 	<h3>Andover, Massachusetts</h3><br>
 
-	<img src="images/projects/bhs1.jpg" alt="BHS Jordan Athletic Center" id="andover-inn-main-img">
+	<img src="images/projects/gelb4.jpg" alt="Gelb Science Center" id="andover-inn-main-img">
 
 	<p><strong>Client</strong><br>
 		<a href="https://www.andover.edu/">Phillips Academy Andover</a></p><br>

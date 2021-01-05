@@ -31,9 +31,9 @@ include 'top.php';
 
 	<div class="project-pics">
 
-		<img src="images/projects/pingreeNA2.jpg" alt="Pingree New Academic Building" class="proj-img-solo"/>
-
 		<img src="images/projects/pingreeNA3.jpg" alt="Pingree New Academic Building" class="proj-img-solo"/>
+
+		<img src="images/projects/pingreeNA2.jpg" alt="Pingree New Academic Building" class="proj-img-solo"/>
 
 		<img src="images/projects/pingreeNA4.jpg" alt="Pingree New Academic Building" class="proj-img-solo"/>
 

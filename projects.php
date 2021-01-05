@@ -349,7 +349,7 @@ include 'top.php';
                     <div class="card" id="gelb-proj-card">
                         <a href="gelb.php">
                             <div class="content-container">
-                                <img src="images/projects/gelb1.jpg" alt="Gelb Science Center" class="projects-img"/>
+                                <img src="images/projects/gelb4.jpg" alt="Gelb Science Center" class="projects-img"/>
                                 <div class="view-project-middle">
                                     <div class="view-project-text">View Project</div>
                                 </div>
