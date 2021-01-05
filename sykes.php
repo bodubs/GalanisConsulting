@@ -9,7 +9,7 @@ include 'top.php';
 	<h2>Rebecca M. Sykes Wellness Center</h2>
 	<h3>Andover, Massachusetts</h3><br>
 
-	<img src="images/projects/andover_commons.jpg" alt="Andover Commons" id="andover-inn-main-img">
+	<img src="images/projects/sykes_wellness1.jpg" alt="Sykes Wellness Center" id="andover-inn-main-img">
 
 	<p><strong>Client</strong><br>
 		<a href="https://www.andover.edu/">Phillips Academy Andover</a></p><br>
@@ -31,11 +31,11 @@ include 'top.php';
 
 	<div class="project-pics">
 
-		<img src="images/projects/sykes1.jpg" alt="Sykes Center" class="proj-img-solo"/>
+		<img src="images/projects/sykes_wellness4.png" alt="Sykes Center" class="proj-img-solo"/>
 
-		<img src="images/projects/sykes2.jpg" alt="Sykes Center" class="proj-img-solo"/>
+		<img src="images/projects/sykes_wellness2.png" alt="Sykes Center" class="proj-img-solo"/>
 
-		<img src="images/projects/sykes3.jpg" alt="Sykes Center" class="proj-img-solo"/>
+		<img src="images/projects/sykes_wellness3.png" alt="Sykes Center" class="proj-img-solo"/>
 
 	</div>
 

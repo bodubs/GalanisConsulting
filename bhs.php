@@ -9,7 +9,7 @@ include 'top.php';
 	<h2>Gerald R. Jordan Athletic Center</h2>
 	<h3>Belmont, Massachusetts</h3><br>
 
-	<img src="images/projects/bhs1.jpg" alt="BHS Jordan Athletic Center" id="andover-inn-main-img">
+	<img src="images/projects/jordan_ac_main.jpg" alt="BHS Jordan Athletic Center" id="andover-inn-main-img">
 
 	<p><strong>Client</strong><br>
 		<a href="https://www.belmonthill.org/">Belmont Hill School</a></p><br>
@@ -31,11 +31,11 @@ include 'top.php';
 
 	<div class="project-pics">
 
-		<img src="images/projects/bhs2.jpg" alt="Belmont Hill School Jordan Athletic Center" class="proj-img-solo"/>
+		<img src="images/projects/jordan_ac1.jpg" alt="Belmont Hill School Jordan Athletic Center" class="proj-img-solo"/>
 
-		<img src="images/projects/bhs3.jpg" alt="Belmont Hill School Jordan Athletic Center" class="proj-img-solo"/>
+		<img src="images/projects/jordan_ac2.jpg" alt="Belmont Hill School Jordan Athletic Center" class="proj-img-solo"/>
 
-		<img src="images/projects/bhs4.jpg" alt="Belmont Hill School Jordan Athletic Center" class="proj-img-solo"/>
+		<img src="images/projects/jordan_ac3.jpg" alt="Belmont Hill School Jordan Athletic Center" class="proj-img-solo"/>
 
 	</div>
 

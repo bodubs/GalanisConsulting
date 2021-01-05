@@ -191,14 +191,6 @@
         })
     }
 
-    // closeBtn.addEventListener("click", function() {
-    //     removeActiveDropdown();
-    //     lendLease.style.display = "none";
-    //     pappasPM.style.display = "none";
-    //     pappasPE.style.display = "none";
-    //     perini.style.display = "none";
-    // })
-
 </script>
 
 

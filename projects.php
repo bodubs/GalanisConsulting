@@ -26,9 +26,23 @@ include 'top.php';
                         </a>
                     </div>
                     <div class="card" id="brooks-admissions-proj-card">
+                        <a href="brookline_cc.php">
+                            <div class="content-container">
+                                <img src="images/projects/andover_pan_finished.jpg" alt="Brookline Country Club" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>The Country Club</p>
+                                <p>Brookline, MA</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="card" id="brooks-admissions-proj-card">
                         <a href="andover_pan.php">
                             <div class="content-container">
-                                <img src="images/projects/brooks_admissions.png" alt="Phillips Academy Pan Athletic Center" class="projects-img"/>
+                                <img src="images/projects/andover_pan_finished.jpg" alt="Phillips Academy Pan Athletic Center" class="projects-img"/>
                                 <div class="view-project-middle">
                                     <div class="view-project-text">View Project</div>
                                 </div>
@@ -62,7 +76,7 @@ include 'top.php';
                     <div class="card" id="brooks-ca-proj-card">
                         <a href="brooks_ca.php">
                             <div class="content-container">
-                                <img src="images/projects/brooks_ca.png" alt="Brooks School Center for the Arts" class="projects-img"/>
+                                <img src="images/projects/brooks_ca_finished.gif" alt="Brooks School Center for the Arts" class="projects-img"/>
                                 <div class="view-project-middle">
                                     <div class="view-project-text">View Project</div>
                                 </div>
@@ -115,7 +129,7 @@ include 'top.php';
                     <div class="card" id="sykes-proj-card">
                         <a href="sykes.php">
                             <div class="content-container">
-                                <img src="images/projects/sykes1.jpg" alt="Sykes Wellness Center" class="projects-img"/>
+                                <img src="images/projects/sykes_wellness1.jpg" alt="Sykes Wellness Center" class="projects-img"/>
                                 <div class="view-project-middle">
                                     <div class="view-project-text">View Project</div>
                                 </div>
@@ -396,7 +410,7 @@ include 'top.php';
                     <div class="card" id="bhs-proj-card">
                         <a href="bhs.php">
                             <div class="content-container">
-                                <img src="images/projects/bhs1.jpg" alt="Belmont Hill School Jordan Athletic Center" class="projects-img"/>
+                                <img src="images/projects/jordan_ac_main.jpg" alt="Belmont Hill School Jordan Athletic Center" class="projects-img"/>
                                 <div class="view-project-middle">
                                     <div class="view-project-text">View Project</div>
                                 </div>
