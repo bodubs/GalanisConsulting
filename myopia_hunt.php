@@ -28,11 +28,11 @@ include 'top.php';
 
 	<div class="project-pics">
 
-		<img src="images/projects/myopia1.jpg" alt="Myopia Hunt Club" class="proj-img-solo"/>
-
 		<img src="images/projects/myopia2.jpg" alt="Myopia Hunt Club" class="proj-img-solo"/>
 
 		<img src="images/projects/myopia3.jpg" alt="Myopia Hunt Club" class="proj-img-solo"/>
+
+		<img src="images/projects/myopia4.jpg" alt="Myopia Hunt Club" class="proj-img-solo"/>
 
 	</div>
 

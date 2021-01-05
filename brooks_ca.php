@@ -17,8 +17,8 @@ include 'top.php';
 	<p><strong>Project Value</strong><br>
 		$30 million</p><br>
 
-	<p><strong>Construction Schedule</strong><br>
-		2017 to 2019</p><br>
+	<p><strong>Completion</strong><br>
+		2019</p><br>
 
 	<p><strong>General Contractor</strong><br>
 		<a href="https://www.consigli.com/">Consigli Construction</a></p><br>

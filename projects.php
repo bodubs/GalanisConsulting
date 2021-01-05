@@ -25,6 +25,20 @@ include 'top.php';
                             </div>
                         </a>
                     </div>
+                    <div class="card" id="brooks-admissions-proj-card">
+                        <a href="andover_pan.php">
+                            <div class="content-container">
+                                <img src="images/projects/andover_pan_finished.jpg" alt="Phillips Academy Pan Athletic Center" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>Pan Athletic Center</p>
+                                <p>Phillips Academy</p>
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
             <div class="year-container">
@@ -41,20 +55,6 @@ include 'top.php';
                             <div class="proj-img-text-div">
                                 <p>Admissions Building</p>
                                 <p>Brooks School</p>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="card" id="brooks-admissions-proj-card">
-                        <a href="andover_pan.php">
-                            <div class="content-container">
-                                <img src="images/projects/andover_pan_finished.jpg" alt="Phillips Academy Pan Athletic Center" class="projects-img"/>
-                                <div class="view-project-middle">
-                                    <div class="view-project-text">View Project</div>
-                                </div>
-                            </div>
-                            <div class="proj-img-text-div">
-                                <p>Pan Athletic Center</p>
-                                <p>Phillips Academy</p>
                             </div>
                         </a>
                     </div>
@@ -154,7 +154,7 @@ include 'top.php';
                     <div class="card" id="ashburn-chapel-proj-card">
                         <a href="ashburn_chapel.php">
                             <div class="content-container">
-                                <img src="images/projects/brooks_chapel_sketch.jpg" alt="Brooks School Ashburn Chapel" class="projects-img"/>
+                                <img src="images/projects/ashburn1.jpg" alt="Brooks School Ashburn Chapel" class="projects-img"/>
                                 <div class="view-project-middle">
                                     <div class="view-project-text">View Project</div>
                                 </div>

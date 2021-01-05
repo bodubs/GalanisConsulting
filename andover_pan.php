@@ -17,8 +17,8 @@ include 'top.php';
 	<p><strong>Project Value</strong><br>
 		$50 million</p><br>
 
-	<p><strong>Construction Schedule</strong><br>
-		2020-2022</p><br>
+	<p><strong>Completion</strong><br>
+		In Progress</p><br>
 
 	<p><strong>General Contractor</strong><br>
 		<a href="https://www.stanmar-inc.com/">Stanmar Construction</a></p><br>
