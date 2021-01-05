@@ -97,6 +97,7 @@ include 'top.php';
         a.classList.add("active");
 
         brooks.style.display = "block";
+        bbn.style.display = "block";
         andover.style.display = "block";
         pingree.style.display = "block";
 

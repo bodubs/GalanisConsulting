@@ -9,6 +9,25 @@ include 'top.php';
 
         <fieldset class="projects pages-sect">
             <div class="year-container">
+                <h1>In Progress</h1>
+                <div class="card-container">
+                    <div class="card" id="brooks-admissions-proj-card">
+                        <a href="brookline_cc.php">
+                            <div class="content-container">
+                                <img src="images/projects/ccbline1.jpg" alt="Brookline Country Club" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>The Country Club</p>
+                                <p>Brookline, MA</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="year-container">
                 <h1>2020</h1>
                 <div class="card-container">
                     <div class="card" id="brooks-admissions-proj-card">
@@ -22,20 +41,6 @@ include 'top.php';
                             <div class="proj-img-text-div">
                                 <p>Admissions Building</p>
                                 <p>Brooks School</p>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="card" id="brooks-admissions-proj-card">
-                        <a href="brookline_cc.php">
-                            <div class="content-container">
-                                <img src="images/projects/andover_pan_finished.jpg" alt="Brookline Country Club" class="projects-img"/>
-                                <div class="view-project-middle">
-                                    <div class="view-project-text">View Project</div>
-                                </div>
-                            </div>
-                            <div class="proj-img-text-div">
-                                <p>The Country Club</p>
-                                <p>Brookline, MA</p>
                             </div>
                         </a>
                     </div>
