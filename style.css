@@ -827,6 +827,21 @@ nav{
     margin-top: 30px;
 }
 
+/* ********* Beacon  ******** */
+
+#beacon-main-img {
+    height: 350px;
+    float: right;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.beacon-titles {
+    font-style: italic;
+    width: 100%;
+    text-align: center;
+}
+
 /* ********* Snyder Center ******** */
 
 #snyder-header {
