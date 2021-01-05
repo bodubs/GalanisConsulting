@@ -14,7 +14,9 @@
 <section class="about">
     <div class="container">
         <div class="bio-container">
-            <img id="yani" src="images/yani.jpg" alt="John Galanis Portrait">
+            <div id="yani-center">
+                <img id="yani" src="images/yani.jpg" alt="John Galanis Portrait">
+            </div>
             <p>John Galanis has more than 40 years experience in the project planning and construction 
                 management of academic, historic, institutional, commercial, industrial, casino, hotel, 
                 and residential structures working directly for building owners and institutions. 
