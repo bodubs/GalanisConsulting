@@ -7,7 +7,7 @@ include 'top.php';
 <div class="projects-detail-container">
 
 	<h2>The Country Club</h2>
-	<h3>Brookline, Massachusetts</h3>
+	<h3>Brookline, Massachusetts</h3><br>
 
 	<img src="images/projects/pingree_ac_main.jpg" alt="Athletic Center" id="andover-inn-main-img">
 

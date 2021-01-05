@@ -7,7 +7,7 @@ include 'top.php';
 <div class="projects-detail-container">
 
 	<h2>The Brooks School Admissions Building</h2>
-	<h3>North Andover, Massachusetts</h3>
+	<h3>North Andover, Massachusetts</h3><br>
 
 	<img src="images/projects/brooks_admissions.png" alt="Admissions Building" id="andover-inn-main-img">
 

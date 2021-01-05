@@ -503,6 +503,10 @@ nav{
     height: 100px;
 }
 
+#pappas-logo {
+    height: 140px;
+}
+
 .client-logos:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);

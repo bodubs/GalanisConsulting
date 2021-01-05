@@ -7,7 +7,7 @@ include 'top.php';
 <div class="projects-detail-container">
 
 	<h2>Pingree School Performing and Visual Arts Building</h2>
-	<h3>South Hamilton, Massachusetts</h3>
+	<h3>South Hamilton, Massachusetts</h3><br>
 
 	<img src="images/projects/pingree_pva.jpg" alt="Performing and Visual Arts Building" id="andover-inn-main-img">
 

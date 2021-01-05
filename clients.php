@@ -37,7 +37,7 @@ include 'top.php';
                 </div>
                 <div class="card" id="pappas-client-card">
                     <a href="macallen.php">
-                        <img src="images/logos/pappas-logo.png" alt="Pappas Properties Logo" class="client-logos"/>
+                        <img src="images/logos/pappas-logo.png" alt="Pappas Properties Logo" class="client-logos" id="pappas-logo"/>
                     </a>
                 </div>
                 <div class="card" id="andover-client-card">

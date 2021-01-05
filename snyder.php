@@ -7,7 +7,7 @@ include 'top.php';
 <div class="projects-detail-container">
 
 	<h2>Phillips Academy Snyder Athletic Center</h2>
-	<h3>Andover, Massachusetts</h3>
+	<h3>Andover, Massachusetts</h3><br>
 
 	<img src="images/projects/snyder_center.jpg" alt="Snyder Center" id="andover-inn-main-img">
 

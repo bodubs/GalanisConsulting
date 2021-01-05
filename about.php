@@ -133,19 +133,9 @@
 
 <script>
 
-
-
-
     const aboutCards = document.querySelectorAll(".early-work-card");
     const dropdowns = document.querySelectorAll(".early-work-dropdown");
     
-
-    const lendLease = document.getElementById('lend-lease');
-    const pappasPM = document.getElementById('pappas-pm');
-    const pappasPE = document.getElementById('pappas-pe');
-    const perini = document.getElementById('perini');
-    const closeBtns = document.querySelectorAll('.close-button');
-
     // Function for displaying details on each of his earlier jobs
     function showDetails(n) {
 
@@ -157,14 +147,14 @@
             aboutCards[0].classList.add("active");
             dropdowns[0].classList.add("active");
         } else if (n == 2) {
-            pappasPM.classList.add("active");
             aboutCards[1].classList.add("active");
+            dropdowns[1].classList.add("active");
         } else if (n == 3) {
-            pappasPE.classList.add("active");
             aboutCards[2].classList.add("active");
+            dropdowns[2].classList.add("active");
         } else if (n == 4) {
-            perini.classList.add("active");
             aboutCards[3].classList.add("active");
+            dropdowns[3].classList.add("active");
         }
     }
 
