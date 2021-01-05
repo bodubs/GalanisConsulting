@@ -9,7 +9,7 @@ include 'top.php';
 	<h2>Phillips Academy Smith Center</h2>
 	<h3>Andover, Massachusetts</h3><br>
 
-	<img src="images/projects/snyder_center.jpg" alt="Snyder Center" id="andover-inn-main-img">
+	<img src="images/projects/smith3.jpg" alt="Snyder Center" id="andover-inn-main-img">
 
 	<p><strong>Client</strong><br>
 		<a href="https://www.andover.edu/">Phillips Academy Andover</a></p><br>

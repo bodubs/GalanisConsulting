@@ -9,7 +9,7 @@ include 'top.php';
 	<h2>Memorial Bell Tower</h2>
 	<h3>Andover, Massachusetts</h3><br>
 
-	<img src="images/projects/andover_commons.jpg" alt="Andover Commons" id="andover-inn-main-img">
+	<img src="images/projects/belltower2.jpg" alt="Andover Commons" id="andover-inn-main-img">
 
 	<p><strong>Client</strong><br>
 		<a href="https://www.andover.edu/">Phillips Academy Andover</a></p><br>
@@ -31,11 +31,11 @@ include 'top.php';
 
 	<div class="project-pics">
 
+		<img src="images/projects/belltower3.jpg" alt="Bell Tower" class="proj-img-solo"/>
+
 		<img src="images/projects/belltower1.jpg" alt="Bell Tower" class="proj-img-solo"/>
 
-		<img src="images/projects/belltower2.jpg" alt="Bell Tower" class="proj-img-solo"/>
-
-		<img src="images/projects/belltower3.jpg" alt="Bell Tower" class="proj-img-solo"/>
+		<img src="images/projects/belltower4.jpg" alt="Bell Tower" class="proj-img-solo"/>
 
 	</div>
 

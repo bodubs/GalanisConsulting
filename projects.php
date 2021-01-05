@@ -316,7 +316,7 @@ include 'top.php';
                     <div class="card" id="belltower-proj-card">
                         <a href="belltower.php">
                             <div class="content-container">
-                                <img src="images/projects/belltower1.jpg" alt="Phillips Bell Tower" class="projects-img"/>
+                                <img src="images/projects/belltower2.jpg" alt="Phillips Bell Tower" class="projects-img"/>
                                 <div class="view-project-middle">
                                     <div class="view-project-text">View Project</div>
                                 </div>
