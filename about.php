@@ -133,9 +133,13 @@
 
 <script>
 
+
+
+
     const aboutCards = document.querySelectorAll(".early-work-card");
     const dropdowns = document.querySelectorAll(".early-work-dropdown");
-    
+    const closeBtns = document.querySelectorAll('.close-button');
+
     // Function for displaying details on each of his earlier jobs
     function showDetails(n) {
 
@@ -154,7 +158,7 @@
             dropdowns[2].classList.add("active");
         } else if (n == 4) {
             aboutCards[3].classList.add("active");
-            dropdowns[3].classList.add("active");
+            dropdowns[3].classList.add("active")
         }
     }
 
