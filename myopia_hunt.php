@@ -18,13 +18,13 @@ include 'top.php';
 		$6 million</p><br>
 
 	<p><strong>Completion</strong><br>
-		2012</p><br>
+		2012</p>
 
 	<p><strong>General Contractor</strong><br>
-		<a href="https://www.consigli.com/">Consigli Construction</a></p><br>
+		<a href="https://www.erland.com/">Erland Construction</a></p><br>
 
 	<p><strong>Architect</strong><br>
-		<a href="https://www.austinarchitects.com/">Austin Architects</a></p><br>
+		<a href="http://www.kmwarch.com/">Kallman, McKinnell & Wood Architects</a></p><br>
 
 	<div class="project-pics">
 
@@ -36,13 +36,11 @@ include 'top.php';
 
 	</div>
 
-	<p>Galanis Consulting was commissioned in 2008 to serve as the Mypia Hunt Club’s owner's representative for a variety of projects and provide the Project Management services for their Capital Improvement Program.<br><br>The Myopia Hunt Club’s Building Committee  recognized the pivotal role of this  historical landmark in its mission and makes its preservation an integral component in decisions implementing that mission.  The Building Committee understands the delicate balance between multiple objectives that are common today as institutions such as the Myopia Hunt Club, and work to preserve historically significant properties in the context of changing physical needs and limited resources.<br><br>Approximately $6 million in capital projects include the restoration of Stables, Kennels, Pony Barns, Club House, and utility infrastructures.<br><br></p>
+	<p>Galanis Consulting was commissioned in 2008 to serve as the Mypia Hunt Club’s owner's representative for a variety of projects and provide the Project Management services for their Capital Improvement Program.<br><br>The Myopia Hunt Club’s Building Committee  recognized the pivotal role of this historical landmark in its mission and makes its preservation an integral component in decisions implementing that mission. The Building Committee understands the delicate balance between multiple objectives that are common today as institutions such as the Myopia Hunt Club, and work to preserve historically significant properties in the context of changing physical needs and limited resources.<br><br>Approximately $6 million in capital projects include the restoration of Stables, Kennels, Pony Barns, Club House, and utility infrastructures.<br><br></p>
 
 
 	<h3>Asscociated Links:</h3>
 	<p><a href="http://www.myopiahuntclub.com/Club/Scripts/Home/home.asp">http://www.myopiahuntclub.com/Club/Scripts/Home/home.asp</a></p>
-	<p><a href="https://www.consigli.com/">https://www.consigli.com/</a></p>
-	<p><a href="https://www.austinarchitects.com/">https://www.austinarchitects.com/</a></p>
 
 </div>
 
