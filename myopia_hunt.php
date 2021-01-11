@@ -15,7 +15,7 @@ include 'top.php';
 		<a href="http://www.myopiahuntclub.com/Club/Scripts/Home/home.asp">Myopia Hunt Club</a></p><br>
 
 	<p><strong>Project Value</strong><br>
-		$6 million</p><br>
+		$7 million</p><br>
 
 	<p><strong>Completion</strong><br>
 		2018</p><br><br><br><br><br><br><br>
