@@ -34,16 +34,10 @@ include 'top.php';
 		Value: $1.5 Million<br>
 		Completed: 2003</p><br>
 
-	<p><strong>Phase II</strong><br>
-		Interior Renovations & Billiard Room Restoration design<br>
-		Value:<br>
-		Completed: 2005</p><br>
-
 	<p><strong>General Contractors</strong><br>
 		<a href="https://www.mfreynolds.com/">MF Reynolds</a><br>
 		<a href="https://www.shawmut.com/">Shawmut Design + Construction</a><br>
-		<a href="https://www.consigli.com/">Consigli Construction</a><br>
-		<a href="https://www.richardewhiteandsons.com/">Richard White & Sons</a></p><br>
+		<a href="https://www.consigli.com/">Consigli Construction</a></p><br>
 
 	<p><strong>Architect</strong><br>
 		<a href="https://roa-architects.com/">Robert Olson and Associates</a></p><br>
@@ -66,7 +60,6 @@ include 'top.php';
 	<p><a href="https://www.mfreynolds.com/">https://www.mfreynolds.com/</a></p>
 	<p><a href="https://www.shawmut.com/">https://www.shawmut.com/</a></p>
 	<p><a href="https://www.consigli.com/">https://www.consigli.com/</a></p>
-	<p><a href="https://www.richardewhiteandsons.com/">https://www.richardewhiteandsons.com/</a></p>
 	<p><a href="https://roa-architects.com/">https://roa-architects.com/</a></p>
 
 </div>

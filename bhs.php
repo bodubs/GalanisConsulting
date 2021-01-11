@@ -15,7 +15,7 @@ include 'top.php';
 		<a href="https://www.belmonthill.org/">Belmont Hill School</a></p><br>
 
 	<p><strong>Project Value</strong><br>
-		</p><br>
+		$16 million</p><br>
 
 	<p><strong>Building Size</strong><br>
 		96,292 square feet</p><br>
@@ -24,10 +24,10 @@ include 'top.php';
 		2000</p><br>
 
 	<p><strong>General Contractor</strong><br>
-		<a href="http://amartinigc.com/">A.J. Martini</a></p><br>
+		A.J. Martini</p><br>
 
 	<p><strong>Architect</strong><br>
-		<a href="http://www.jm-a.com/projects/">JMA/JBA Associates</a></p><br>
+		JMA/JBA Associates</p><br>
 
 	<div class="project-pics">
 
@@ -44,8 +44,6 @@ include 'top.php';
 
 	<h3>Asscociated Links:</h3>
 	<p><a href="https://www.belmonthill.org/">https://www.belmonthill.org/</a></p>
-	<p><a href="http://amartinigc.com/">http://amartinigc.com/</a></p>
-	<p><a href="http://www.jm-a.com/projects/">http://www.jm-a.com/projects/</a></p>
 
 </div>
 

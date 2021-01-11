@@ -18,13 +18,7 @@ include 'top.php';
 		$6 million</p><br>
 
 	<p><strong>Completion</strong><br>
-		2012</p>
-
-	<p><strong>General Contractor</strong><br>
-		<a href="https://www.erland.com/">Erland Construction</a></p><br>
-
-	<p><strong>Architect</strong><br>
-		<a href="http://www.kmwarch.com/">Kallman, McKinnell & Wood Architects</a></p><br>
+		2018</p><br><br><br><br><br><br><br>
 
 	<div class="project-pics">
 
@@ -36,7 +30,7 @@ include 'top.php';
 
 	</div>
 
-	<p>Galanis Consulting was commissioned in 2008 to serve as the Mypia Hunt Club’s owner's representative for a variety of projects and provide the Project Management services for their Capital Improvement Program.<br><br>The Myopia Hunt Club’s Building Committee  recognized the pivotal role of this historical landmark in its mission and makes its preservation an integral component in decisions implementing that mission. The Building Committee understands the delicate balance between multiple objectives that are common today as institutions such as the Myopia Hunt Club, and work to preserve historically significant properties in the context of changing physical needs and limited resources.<br><br>Approximately $6 million in capital projects include the restoration of Stables, Kennels, Pony Barns, Club House, and utility infrastructures.<br><br></p>
+	<p>Galanis Consulting was commissioned in 2008 to serve as the Myopia Hunt Club’s owner's representative for a variety of projects and provide the Project Management services for their Capital Improvement Program.<br><br>The Myopia Hunt Club’s Building Committee  recognized the pivotal role of this  historical landmark in its mission and makes its preservation an integral component in decisions implementing that mission. The Building Committee understands the delicate balance between multiple objectives that are common today as institutions such as the Myopia Hunt Club, and work to preserve historically significant properties in the context of changing physical needs and limited resources.<br><br>Approximately $7 million in capital projects include the restoration of Stables, Kennels, Pony Barns, Club House, utility infrastructure projects; and a 175,000 gallon pool project.<br><br></p>
 
 
 	<h3>Asscociated Links:</h3>
