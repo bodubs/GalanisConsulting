@@ -270,7 +270,7 @@ include 'top.php';
                                 </div>
                             </div>
                             <div class="proj-img-text-div">
-                                <p>Andover Commons</p>
+                                <p>Paresky Commons</p>
                                 <p>Phillips Academy</p>
                             </div>
                         </a>
@@ -304,7 +304,7 @@ include 'top.php';
                             </div>
                             <div class="proj-img-text-div">
                                 <p>Smith Center</p>
-                                <p>Phillips Andover</p>
+                                <p>Phillips Academy</p>
                             </div>
                         </a>
                     </div>
@@ -323,7 +323,7 @@ include 'top.php';
                             </div>
                             <div class="proj-img-text-div">
                                 <p>Bell Tower</p>
-                                <p>Phillips Andover</p>
+                                <p>Phillips Academy</p>
                             </div>
                         </a>
                     </div>
@@ -356,21 +356,21 @@ include 'top.php';
                             </div>
                             <div class="proj-img-text-div">
                                 <p>Gelb Science Center</p>
-                                <p>Phillips Andover</p>
+                                <p>Phillips Academy</p>
                             </div>
                         </a>
                     </div>
                     <div class="card" id="rink-proj-card">
                         <a href="phillips_rink.php">
                             <div class="content-container">
-                                <img src="images/projects/gelb1.jpg" alt="Gelb Science Center" class="projects-img"/>
+                                <img src="images/projects/rink1.jpg" alt="Phillips Academy Hockey Rink" class="projects-img"/>
                                 <div class="view-project-middle">
                                     <div class="view-project-text">View Project</div>
                                 </div>
                             </div>
                             <div class="proj-img-text-div">
                                 <p>Hockey Rinks</p>
-                                <p>Phillips Andover</p>
+                                <p>Phillips Academy</p>
                             </div>
                         </a>
                     </div>
@@ -403,7 +403,7 @@ include 'top.php';
                             </div>
                             <div class="proj-img-text-div">
                                 <p>Phelps Stadium</p>
-                                <p>Phillips Andover</p>
+                                <p>Phillips Academy</p>
                             </div>
                         </a>
                     </div>

@@ -9,7 +9,7 @@ include 'top.php';
 	<h2>Phillips Academy Hockey Rinks</h2>
 	<h3>Andover, Massachusetts</h3><br>
 
-	<img src="images/projects/bbnms1.jpg" alt="Buckingham Browne & Nichols Middle School" id="andover-inn-main-img">
+	<img src="images/projects/rink1.jpg" alt="Phillips Academy Hockey Rink" id="andover-inn-main-img">
 
 	<p><strong>Client</strong><br>
 		<a href="https://www.andover.edu/">Phillips Academy Andover</a></p><br>
@@ -31,11 +31,11 @@ include 'top.php';
 
 	<div class="project-pics">
 
-		<img src="images/projects/bbnms2.jpg" alt="Buckingham Browne & Nichols Middle School" class="proj-img-solo"/>
+		<img src="images/projects/rink2.jpg" alt="Phillips Academy Hockey Rink" class="proj-img-solo"/>
 
-		<img src="images/projects/bbnms3.jpg" alt="Buckingham Browne & Nichols Middle School" class="proj-img-solo"/>
+		<img src="images/projects/rink3.jpg" alt="Phillips Academy Hockey Rink" class="proj-img-solo"/>
 
-		<img src="images/projects/bbnms4.jpg" alt="Buckingham Browne & Nichols Middle School" class="proj-img-solo"/>
+		<img src="images/projects/rink4.jpg" alt="Phillips Academy Hockey Rink" class="proj-img-solo"/>
 
 	</div>
 

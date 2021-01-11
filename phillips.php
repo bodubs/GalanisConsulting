@@ -23,19 +23,6 @@ include 'top.php';
                     </a>
                 </div>
                 <div class="card">
-                    <a href="andover_commons.php">
-                        <div class="content-container">
-                            <img src="images/projects/andover_commons.jpg" alt="Phillips Academy Commons" class="projects-img"/>
-                            <div class="view-project-middle">
-                                <div class="view-project-text">View Project</div>
-                            </div>
-                        </div>
-                        <div class="proj-img-text-div">
-                            <p>Andover Commons</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="card">
                     <a href="belltower.php">
                         <div class="content-container">
                             <img src="images/projects/belltower2.jpg" alt="Phillips Academy Bell Tower" class="projects-img"/>
@@ -90,7 +77,7 @@ include 'top.php';
                 <div class="card">
                     <a href="phillips_rink.php">
                         <div class="content-container">
-                            <img src="images/projects/gelb1.jpg" alt="Gelb Science Center" class="projects-img"/>
+                            <img src="images/projects/rink1.jpg" alt="Phillips Academy Hockey Rinks" class="projects-img"/>
                             <div class="view-project-middle">
                                 <div class="view-project-text">View Project</div>
                             </div>
@@ -110,6 +97,19 @@ include 'top.php';
                         </div>
                         <div class="proj-img-text-div">
                             <p>Oliver Wendell Holmes Library</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="card">
+                    <a href="andover_commons.php">
+                        <div class="content-container">
+                            <img src="images/projects/andover_commons.jpg" alt="Phillips Academy Commons" class="projects-img"/>
+                            <div class="view-project-middle">
+                                <div class="view-project-text">View Project</div>
+                            </div>
+                        </div>
+                        <div class="proj-img-text-div">
+                            <p>Paresky Commons</p>
                         </div>
                     </a>
                 </div>

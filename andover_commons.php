@@ -6,7 +6,7 @@ include 'top.php';
 
 <div class="projects-detail-container">
 
-	<h2>Phillips Academy Andover Commons Project</h2>
+	<h2>Paresky Commons</h2>
 	<h3>Andover, Massachusetts</h3><br>
 
 	<img src="images/projects/andover_commons.jpg" alt="Andover Commons" id="andover-inn-main-img">
