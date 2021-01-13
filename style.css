@@ -233,19 +233,23 @@ nav{
 }
 
 .slide:first-child{
+    background: url("images/projects/library-inside.jpg") no-repeat center center/cover;
+}
+
+.slide:nth-child(2){
     background: url("images/projects/macallen1.jpg") no-repeat center center/cover;
 }
-.slide:nth-child(2){
+.slide:nth-child(3){
     background: url("images/projects/snyder_center-slider.jpg") no-repeat center center/cover;
 }
 
-.slide:nth-child(3){
-    background: url("images/projects/Bulfinch1-slider.JPG") no-repeat center top/cover;
+.slide:nth-child(4){
+    background: url("images/projects/sykes_wellness1.jpg") no-repeat center center/cover;
     
 }
 
-.slide:nth-child(4){
-    background: url("images/projects/andover-inn2.jpg") no-repeat center center/cover;
+.slide:nth-child(5){
+    background: url("images/projects/andover_pan_finished.jpg") no-repeat center center/cover;
 }
 
 .nav-dot{

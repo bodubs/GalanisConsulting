@@ -9,6 +9,15 @@ include 'top.php';
         <div class="slider">
             <div class="slide current">
                 <div class="content">
+                    <h3>Oliver Wendell Holmes Library, Andover MA</h3>
+                    <p>Phillips Academy’s first modern library was funded by Thomas Cochran, Class of 1890, who helped orchestrate the physical transformation of campus during that period....</p>
+                    <a href="owh_library.php" class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
+
+                </div>
+ 
+            </div>
+            <div class="slide">
+                <div class="content">
                     <h3>MacAllen Building, South Boston MA</h3>
                     <p>The project involved the construction of a new 15 story, 354,000 sf structural steel residential building that will contain 143 apartments...</p>
                     <a href="macallen.php" class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
@@ -22,18 +31,25 @@ include 'top.php';
                     <a href="snyder.php"class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
                 </div>
             </div>
-            <div class="slide">
+            <!-- <div class="slide">
                 <div class="content">
                     <h3>Bulfinch Hall, Andover MA</h3>
                     <p>The historic building's most recent restaurantion was 1,400 SF addition with a "green roof"...</p>
                     <a href="bulfinch.php" class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
                 </div>
+            </div> -->
+            <div class="slide">
+                <div class="content">
+                    <h3>Rebecca M. Sykes Wellness Center, Andover MA</h3>
+                    <p>The Rebecca M. Sykes Wellness Center was designed and built to integrate Phillips Academy’s health services under one roof...</p>
+                    <a href="sykes.php" class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
+                </div>
             </div>
             <div class="slide">
                 <div class="content">
-                    <h3>Anover Inn, Andover MA</h3>
-                    <p>Listed on the National Register of Historic Inns and a campus icon since 1930, the inn is known regionally and nationally...</p>
-                    <a href="andover_inn.php" class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
+                    <h3>Phillips Academy Andover Pan Athletic Center, Andover MA</h3>
+                    <p>The new 70,000-square-foot Pan Center will house a swimming pool with 525,000 gallons tank volume and diving area....</p>
+                    <a href="andover_pan.php" class="see-more-btn">See More<i class="fas fa-chevron-right"></i></a>
 
                 </div>
             </div>
@@ -47,6 +63,7 @@ include 'top.php';
             <button class="nav-dot" onclick="currentSlide(2)"></button>
             <button class="nav-dot" onclick="currentSlide(3)"></button>
             <button class="nav-dot" onclick="currentSlide(4)"></button>
+            <button class="nav-dot" onclick="currentSlide(5)"></button>
         </div>
 
     </section>
