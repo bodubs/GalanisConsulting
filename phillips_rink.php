@@ -27,7 +27,7 @@ include 'top.php';
 		<a href="https://proconinc.com/">Pro Con Construction</a></p><br>
 
 	<p><strong>Architect</strong><br>
-		<a href="https://www.pcidesigngroup.com/">PCI Architecture</a></p><br>
+		<a>PCI Architecture</a></p><br>
 
 	<div class="project-pics">
 
@@ -45,7 +45,6 @@ include 'top.php';
 	<h3>Asscociated Links:</h3>
 	<p><a href="https://www.andover.edu/">https://www.andover.edu/</a></p>
 	<p><a href="https://proconinc.com/">https://proconinc.com/</a></p>
-	<p><a href="https://www.pcidesigngroup.com/">https://www.pcidesigngroup.com/</a></p>
 
 </div>
 

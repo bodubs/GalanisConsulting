@@ -24,10 +24,10 @@ include 'top.php';
 		2010</p><br>
 
 	<p><strong>General Contractor</strong><br>
-		<a href="https://www.erland.com/">Erland Construction</a></p><br>
+		<a href="https://www.consigli.com/">Consigli Construction</a></p><br>
 
 	<p><strong>Architect</strong><br>
-		<a href="https://www.arrowstreet.com/">Arrowstreet Architects</a></p><br>
+		<a href="https://www.schwartzsilver.com/">Schwartz/Silver Architects</a></p><br>
 
 	<div class="project-pics">
 
@@ -39,13 +39,13 @@ include 'top.php';
 
 	</div>
 
-	<p>On October 1, 2010 Galanis Consulting completed an extensive 15 month renovation  at The Andover Inn, on the campus of Phillips Academy.<br><br>Listed on the National Register of Historic Inns and a campus icon since 1930, the inn is known regionally and nationally for its upscale restaurant and quaint accommodations.  The renovation, made possible by a generous gift, added modern-day amenities to the guestrooms and restaurant, while preserving the inn’s historic character and charm. While the facility has undergone minor improvements over the years, it has never been significantly updated.<br><br>Although a large structure, this Georgian Revival style inn was designed to be domestic in character in order to convey the appearance of a hostelry, yet be compatible with the accepted architectural style for the school at that time. The architect, W. Sydney Wagner, architect of New York’s Roosevelt Hotel, specialized in hotel design while working for George B. Pose & Sons.   Much of Wagner’s original detail is preserved in the lobby and dining areas. The Fredrick Law Olmstead Landscape firm designed the original grounds of the Inn.   The Inn was built on the grounds where Harriet Beacher Stowe’s house first stood.<br><br>Revisions to the 30-room inn included upgrades to both the interior and exterior of the building.  The inn was completely gutted and rehabilitated-with the exception of the main lobby and dining areas, which Phillips Academy wanted to preserve because of the richness of their architectural detailing.  The Inn now features new mechanical and electrical systems, and a new lounge with upgraded kitchen and support area, as well as a new modernized look that will blend contemporary style with the building’s historical nature.<br><br></p>
+	<p>The Paresky Commons project renovated the 1930 Commons Dining Hall on the 1,100 student, 500 acre campus of Phillips Academy Andover. With a requirement of 3,300 meals per day to be served out of a temporary dining facility as the Phase 1 build out of the project, the Phase 2 renovation included two large serveries replacing the four installed in 1981; opening the first-floor servery to the lobby; creating a new stair to the basement-level student center; transforming and doubling the size of the former student center; making the building fully handicapped accessible; creating three large terraces; and providing a variety of seating options in the dining halls, including a café with its own menu and atmosphere.  Preserving and restoring the historic character of the building was central to every aspect of the renovation. Even the most radical changes-like opening the lobby to the servery beyond –were done so artfully as to seem no change at all took place. Matching existing Alabama Limestone walls, Tennessee Marble floors, and preserving Barry Faulkner murals all added a complex array of conditions.<br><br></p>
 
 
 	<h3>Asscociated Links:</h3>
 	<p><a href="https://www.andover.edu/">https://www.andover.edu/</a></p>
-	<p><a href="https://www.erland.com/">https://www.erland.com/</a></p>
-	<p><a href="https://www.arrowstreet.com/">https://www.arrowstreet.com/</a></p>
+	<p><a href="https://www.consigli.com/">https://www.consigli.com/</a></p>
+	<p><a href="https://www.schwartzsilver.com/">https://www.schwartzsilver.com/</a></p>
 
 </div>
 

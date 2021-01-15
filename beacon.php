@@ -53,8 +53,6 @@ include 'top.php';
 
 	<h3>Asscociated Links:</h3>
 	<p><a href="http://www.papent.com/">http://www.papent.com/</a></p>
-	<p><a href="https://www.consigli.com/">https://www.consigli.com/</a></p>
-	<p><a href="https://www.austinarchitects.com/">https://www.austinarchitects.com/</a></p>
 
 </div>
 
