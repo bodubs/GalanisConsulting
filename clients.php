@@ -10,9 +10,9 @@ include 'top.php';
         <fieldset class="projects pages-sect">
             <legend id="client-legend"><a class="active" onclick="showAll(this)">All</a> - <a onclick="showAcademic(this)">Academic</a> - <a onclick="showClubs(this)">Clubs</a> - <a onclick="showPD(this)">Private Development</a></legend>
             <div class="icon-container">
-                <div class="card" id="bpb-client-card">
+                <!-- <div class="card" id="bpb-client-card">
                     <img src="images/logos/bpb-logo.png" alt="Boston Private Bank Logo" class="client-logos"/>
-                </div>
+                </div> -->
                 <div class="card" id="brooks-client-card">
                     <a href="brooks.php">
                         <img src="images/logos/brooks-logo.png" alt="Brooks School Logo" class="client-logos"/>
