@@ -35,7 +35,7 @@ $errorInputCSS = ' style="border: 1px solid red; border-radius: 3px; outline-col
     <p>1 Lillian Drive</p>
     <p>Ipswich, MA 01938</p><br>
     <p>Email: galanisllc@comcast.net</p><br>
-    <a href="https://www.linkedin.com/in/john-galanis-79577382/" target="_blank" id="li-contact-link"><img class="li-icon" src="images/icons/li-icon.png" alt="Linked-In">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/john-galanis-79577382/" target="_blank" id="li-contact-link"><img class="li-icon" src="images/icons/li-icon.png" alt="Linked-In"></a>
 </div>
 
 <div id="contact-form-div">
@@ -94,14 +94,12 @@ if (isset($_POST['btnSendMsg'])) {
         // ***************** SEND MAIL TO Galanis Consulting LLC ******************* //
         
         $mailMessage = "New Message from Client:
+Name: " . $name . "
+Email: " . $email . "
 
-                        Name: " . $name . 
-                        "Email: " . $email . "
-
-                        Message: 
-                        " . $message;
+" . $message;
         
-        $to = 'bowarren00@gmail.com';
+        $to = 'galanisllc@comcast.net';
         $cc = '';
         $bcc = '';
         
@@ -112,7 +110,7 @@ if (isset($_POST['btnSendMsg'])) {
         }
 
 
-        mail('bowarren00@gmail.com', $subject, $mailMessage);
+        mail('galanisllc@comcast.net', $subject, $mailMessage);
 
 
         $dataEntered = true;
