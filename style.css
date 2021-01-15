@@ -1142,6 +1142,10 @@ to {opacity: 1}
         border-bottom: 1px solid var(--body-color);
     }
 
+    footer {
+        padding-left: 20px;
+    }
+
 }
 
 @media screen and (max-width: 950px){
