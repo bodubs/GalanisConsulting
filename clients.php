@@ -25,7 +25,7 @@ include 'top.php';
                 </div>
                 <div class="card" id="cc-brookline-client-card">
                     <a href="brookline_cc.php">
-                        <img src="images/logos/cc-brookline-logo.png" alt="The Country Club at Brookline Logo" class="client-logos" id="cc-brookline-logo"/>
+                        <img src="images/logos/cc-brookline-logo1.png" alt="The Country Club at Brookline Logo" class="client-logos" id="cc-brookline-logo"/>
                     </a>
                 </div>
                 <div class="card" id="myopia-client-card">

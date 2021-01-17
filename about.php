@@ -80,7 +80,7 @@
                 <p>Fontbonne Hall-Lehrer McGovern Bovis<br>Framingham, MA<br>
                 Construction project manager for a $2 Million 127,000 square foot renovation to a 200 private room eldercare facility replacing out-dated mechanical, heating, ventilation and fire protection methods with state-of-the-art systems. Project consisted of three phases including the moves with the occupants from phase to phase.</p><br>
                 <p>10 St. James Avenue<br>Boston, MA<br>
-                Bovis Lend Lease performed construction management services for the 19-story office tower located in Boston’s historic Back Bay District. The building offers approximately 500,000 sf of office space with 40,000 sf of retail space on the main floor and 3.5 levels of underground parking.  As a result of lack of recent construction and Boston’s complex zoning regulations, 10 St. James entered a 3% vacancy market with little competition. The project value totaled $110 Million.</p>
+                Project Manager responsible for the tenant work of this 19-story Class A office tower located in Boston’s historic Back Bay District. The building offers approximately 500,000 sf of office space with 40,000 sf of retail space on the main floor and 3.5 levels of underground parking.  The project value totaled $110 Million.</p>
             </div>
 
             <div id="pappas-pm" class="early-work-dropdown">

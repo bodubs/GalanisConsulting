@@ -154,7 +154,7 @@ include 'top.php';
                     <div class="card" id="ashburn-chapel-proj-card">
                         <a href="ashburn_chapel.php">
                             <div class="content-container">
-                                <img src="images/projects/ashburn1.jpg" alt="Brooks School Ashburn Chapel" class="projects-img"/>
+                                <img src="images/projects/ashburn5.JPG" alt="Brooks School Ashburn Chapel" class="projects-img"/>
                                 <div class="view-project-middle">
                                     <div class="view-project-text">View Project</div>
                                 </div>

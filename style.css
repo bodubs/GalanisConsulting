@@ -1171,6 +1171,10 @@ to {opacity: 1}
 
 @media screen and (max-width: 600px) {
 
+    .gc-logo {
+        font-size: 20px;
+    }
+
     .card-container {
         grid-template-columns: 1fr;
     }
