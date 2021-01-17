@@ -12,7 +12,7 @@ include 'top.php';
 	<img src="images/projects/macallen1.jpg" alt="MacAllen Building Night" id="andover-inn-main-img"/>
 
 	<p><strong>Client</strong><br>
-		<a href="https://www.papent.com/">Pappas Properties</a></p><br>
+		<a href="https://www.pappascommercecenter.com/">Pappas Properties</a></p><br>
 
 	<p><strong>Project Value</strong><br>
 		$100 million</p><br>
@@ -61,7 +61,7 @@ include 'top.php';
 
 
 	<h3>Asscociated Links:</h3>
-	<p><a href="https://www.papent.com/">https://www.papent.com/</a></p>
+	<p><a href="https://www.pappascommercecenter.com/">https://www.pappascommercecenter.com/</a></p>
 	<p><a href="https://www.lendlease.com/expertise/areas-of-expertise/">https://www.lendlease.com/expertise/areas-of-expertise/</a></p>
 
 </div>

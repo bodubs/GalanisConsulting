@@ -78,7 +78,9 @@
                 <p>CISCO Systems-Lehrer McGovern Bovis<br>Chelmsford, MA<br>
                 Owner’s representative for a 140,000 Square Foot fast track - design build project consisting of office renovations, cabling and communications coordination, and electronic test laboratory construction. Total project value: $2.5 million.</p><br>
                 <p>Fontbonne Hall-Lehrer McGovern Bovis<br>Framingham, MA<br>
-                Construction project manager for a $2 Million 127,000 square foot renovation to a 200 private room eldercare facility replacing out-dated mechanical, heating, ventilation and fire protection methods with state-of-the-art systems. Project consisted of three phases including the moves with the occupants from phase to phase.</p>
+                Construction project manager for a $2 Million 127,000 square foot renovation to a 200 private room eldercare facility replacing out-dated mechanical, heating, ventilation and fire protection methods with state-of-the-art systems. Project consisted of three phases including the moves with the occupants from phase to phase.</p><br>
+                <p>10 St. James Avenue<br>Boston, MA<br>
+                Bovis Lend Lease performed construction management services for the 19-story office tower located in Boston’s historic Back Bay District. The building offers approximately 500,000 sf of office space with 40,000 sf of retail space on the main floor and 3.5 levels of underground parking.  As a result of lack of recent construction and Boston’s complex zoning regulations, 10 St. James entered a 3% vacancy market with little competition. The project value totaled $110 Million.</p>
             </div>
 
             <div id="pappas-pm" class="early-work-dropdown">
@@ -88,7 +90,7 @@
                 <p>435 Summer Street-Pappas Management Corp.<br>Boston, MA<br>
                 Construction project manager/superintendent for a 500-car, four level underground parking garage. Slurry wall and mat foundation system. Post tension concrete structure. Total value $16 million.</p><br>
                 <p>Commercial Union Warehouse-Pappas Management Corp.<br>Boston, MA<br>
-                Construction project manager/superintendent for a 63,000 SF warehouse, offices, and print shops. Value $3 million.</p>
+                Construction project manager/superintendent for a 63,000 SF warehouse, offices, and print shops. Value $3 million.</p><br>
                 <p>The Pappas Building, 655 Summer Street<br>Boston, MA<br>
                 Construction project manger/superintendent for a three story, 15,000 SF corporate headquarters. Precast pile foundation, with structural steel superstructure. Total value $3.4 million.</p><br>
                 <p>425 Summer Street-Pappas Management Corp.<br>Boston, MA<br>
