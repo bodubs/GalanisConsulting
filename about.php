@@ -54,7 +54,7 @@
                     <p><strong>Project Engineer</strong></p>
                     <p>Pappas Properties</p>
                     <p>1984-1987</p>
-                    <p>Boston, MA</p>
+                    <p>White Plains, NY</p>
                 </div>
 
                 <div class="early-work-card" onclick="showDetails(4)">

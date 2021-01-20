@@ -516,6 +516,10 @@ nav{
     transform: scale(1.1);
 }
 
+.no-logo-client {
+    color: var(--main-color);
+}
+
 
 
 /* ********************************* PROJECTS PAGE ************************************** */

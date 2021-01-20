@@ -9,7 +9,7 @@ include 'top.php';
 	<h2>The Brooks School Ashburn Chapel Restoration Project</h2>
 	<h3>North Andover, Massachusetts</h3><br>
 
-	<img src="images/projects/ashburn5.JPG" alt="Ashburn Chapel" id="andover-inn-main-img">
+	<img src="images/projects/ashburn6.jpg" alt="Ashburn Chapel" id="andover-inn-main-img">
 
 	<p><strong>Client</strong><br>
 		<a href="https://www.brooksschool.org/">The Brooks School</a></p><br>
@@ -32,7 +32,7 @@ include 'top.php';
 
 		<img src="images/projects/ashburn3.jpg" alt="Ashburn Chapel" class="proj-img-solo"/>
 
-		<img src="images/projects/ashburn4.jpg" alt="Ashburn Chapel" class="proj-img-solo"/>
+		<img src="images/projects/ashburn5.JPG" alt="Ashburn Chapel" class="proj-img-solo"/>
 
 
 	</div>

@@ -154,7 +154,7 @@ include 'top.php';
                     <div class="card" id="ashburn-chapel-proj-card">
                         <a href="ashburn_chapel.php">
                             <div class="content-container">
-                                <img src="images/projects/ashburn5.JPG" alt="Brooks School Ashburn Chapel" class="projects-img"/>
+                                <img src="images/projects/ashburn6.jpg" alt="Brooks School Ashburn Chapel" class="projects-img"/>
                                 <div class="view-project-middle">
                                     <div class="view-project-text">View Project</div>
                                 </div>
@@ -199,20 +199,6 @@ include 'top.php';
             <div class="year-container">
                 <h1>2012</h1>
                 <div class="card-container">
-                    <div class="card" id="andover-boat-house-proj-card">
-                        <a href="andover_boat_house.php">
-                            <div class="content-container">
-                                <img src="images/projects/boat_house.jpg" alt="Phillips Academy Boat House" class="projects-img"/>
-                                <div class="view-project-middle">
-                                    <div class="view-project-text">View Project</div>
-                                </div>
-                            </div>
-                            <div class="proj-img-text-div">
-                                <p>Boat House</p>
-                                <p>Phillips Academy</p>
-                            </div>
-                        </a>
-                    </div>
                     <div class="card" id="bulfinch-proj-card">
                         <a href="bulfinch.php">
                             <div class="content-container">
@@ -238,6 +224,20 @@ include 'top.php';
                             <div class="proj-img-text-div">
                                 <p>Multiple Capital Improvements</p>
                                 <p>Myopia Hunt Club</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="card" id="andover-boat-house-proj-card">
+                        <a href="andover_boat_house.php">
+                            <div class="content-container">
+                                <img src="images/projects/boat_house.jpg" alt="Phillips Academy Boat House" class="projects-img"/>
+                                <div class="view-project-middle">
+                                    <div class="view-project-text">View Project</div>
+                                </div>
+                            </div>
+                            <div class="proj-img-text-div">
+                                <p>The William H. Brown Boat House</p>
+                                <p>Phillips Academy</p>
                             </div>
                         </a>
                     </div>
@@ -322,7 +322,7 @@ include 'top.php';
                                 </div>
                             </div>
                             <div class="proj-img-text-div">
-                                <p>Bell Tower</p>
+                                <p>Memorial Bell Tower</p>
                                 <p>Phillips Academy</p>
                             </div>
                         </a>

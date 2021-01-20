@@ -10,9 +10,9 @@ include 'top.php';
         <fieldset class="projects pages-sect">
             <legend id="client-legend"><a class="active" onclick="showAll(this)">All</a> - <a onclick="showAcademic(this)">Academic</a> - <a onclick="showClubs(this)">Clubs</a> - <a onclick="showPD(this)">Private Development</a></legend>
             <div class="icon-container">
-                <!-- <div class="card" id="bpb-client-card">
-                    <img src="images/logos/bpb-logo.png" alt="Boston Private Bank Logo" class="client-logos"/>
-                </div> -->
+                <div class="card" id="bpb-client-card">
+                    <h2 class="no-logo-client">Boston Private Bank</h2>
+                </div>
                 <div class="card" id="brooks-client-card">
                     <a href="brooks.php">
                         <img src="images/logos/brooks-logo.png" alt="Brooks School Logo" class="client-logos"/>
@@ -48,6 +48,14 @@ include 'top.php';
                         <img src="images/logos/pingree-logo.png" alt="Pingree School Logo" class="client-logos"/>
                     </a>
                 </div>
+                <div class="card" id="porcellian-client-card">
+                    <h2 class="no-logo-client">Porcellian Club</h2>
+                </div>
+                <div class="card" id="somerset-client-card">
+                    <a href="somerset.php">
+                        <h2 class="no-logo-client">The Somerset Club</h2>
+                    </a>
+                </div>
             </div>
         </fieldset>
     </div>
@@ -65,8 +73,10 @@ include 'top.php';
     const andover = document.getElementById('andover-client-card');
     const pappas = document.getElementById('pappas-client-card');
     const pingree = document.getElementById('pingree-client-card');
+    const porcellian = document.getElementById('porcellian-client-card');
     const myopia = document.getElementById('myopia-client-card');
     const ccb = document.getElementById('cc-brookline-client-card');
+    const somerset = document.getElementById('somerset-client-card');
 
 
     // showAll() shows all cards
@@ -84,6 +94,8 @@ include 'top.php';
         pingree.style.display = "block";
         myopia.style.display = "block";
         ccb.style.display = "block";
+        porcellian.style.display = "block";
+        somerset.style.display = "block";
 
     }
 
@@ -125,6 +137,8 @@ include 'top.php';
 
         bpb.style.display = "block";
         pappas.style.display = "block";
+        porcellian.style.display = "block";
+        somerset.style.display = "block";
 
     }
     
@@ -141,6 +155,8 @@ include 'top.php';
         pingree.style.display = "none";
         myopia.style.display = "none";
         ccb.style.display = "none";
+        porcellian.style.display = "none";
+        somerset.style.display = "none";
      
     }
 
